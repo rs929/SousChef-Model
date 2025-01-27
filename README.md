@@ -6,7 +6,7 @@ A Recipe Generation and Ingredient Recognition System Powered by AI
 
 This project was created by the [Caffinated Coders](https://github.coecis.cornell.edu/cs4701-24fa-projects/PC_Caffeinated-Coders_apk67_gff29_rs929_rsh256) team as part of Cornell CS 4701:
 
-Aditya Kakade, Gabby Fite, Ramisha Hossain, Richie Sun
+[Aditya Kakade](https://github.com/adityakakade432), [Gabby Fite](https://github.com/gabbif), Ramisha Hossain, Richie Sun
 
 ## Overview
 
