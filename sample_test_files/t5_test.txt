@@ -1,0 +1,120 @@
+Test Case #1
+Output         : Preheat oven to 375f combine tomatoes chards, a lot of ham and a bit of lemon zest in a large bowl and add to a pot of rice and toss in tavern to coat coat and coat and add a little salt and pepper in sarn about 1 minute remove from heat cover and simmer for 20 minutes add tomatoes and pistachios tosses a handful of chicken and stir to combine and add the t.
+Ingredient Test Result   : Fail: did not include ['basil', 'mozzarella']
+Length of Output    : 360
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.9681422710418701}]
+BLEU Score     : 0.0558
+ROUGE-1:       : Precision=0.2111, Recall=0.5600, F-Measure=0.3066
+ROUGE-2:       : Precision=0.0505, Recall=0.1351, F-Measure=0.0735
+ROUGE-L:       : Precision=0.1106, Recall=0.2933, F-Measure=0.1606
+
+--------------------------------------------------
+Test Case #2
+Output         : 1 quart chicken jarlic vinegar lily liqueur loli salt dilly and serve with salt season with salt in a medium bowl whisk until tender about 15 minutes add the oil in dill sugar slats and add the remaining ingredients and the cooking is done about 4 minutes or until tender enough to form a gin foil wrapped in muddle place the mash and metch and cover with a small spoon and whisk in the remaining remaining ingredients until smooth about.
+Ingredient Test Result   : Fail: did not include ['garlic', 'lemon', 'rice']
+Length of Output    : 438
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.975894570350647}]
+BLEU Score     : 0.1175
+ROUGE-1:       : Precision=0.2026, Recall=0.5750, F-Measure=0.2997
+ROUGE-2:       : Precision=0.0354, Recall=0.1013, F-Measure=0.0525
+ROUGE-L:       : Precision=0.1145, Recall=0.3250, F-Measure=0.1694
+
+--------------------------------------------------
+Test Case #3
+Output         : Preheat oven to 350f whisk sauté to combine in a large bowl whisk in feta, feta and eggs in sulfer mixture and cook stirring until smooth sprinkle feta mixture in october season with salt and pepper.
+Ingredient Test Result   : Fail: did not include ['spinach', 'butter']
+Length of Output    : 199
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.8958951234817505}]
+BLEU Score     : 0.0009
+ROUGE-1:       : Precision=0.1320, Recall=0.7222, F-Measure=0.2232
+ROUGE-2:       : Precision=0.0561, Recall=0.3143, F-Measure=0.0952
+ROUGE-L:       : Precision=0.0863, Recall=0.4722, F-Measure=0.1459
+
+--------------------------------------------------
+Test Case #4
+Output         : Resoudre 1 corn 'corn peppers' toss with a pinch of peppers and 1 tsp of a crockpot top with ice and whisk until crisp and smooth about 6 minutes add the garlic to the top with the peppers.
+Ingredient Test Result   : Fail: did not include ['bell peppers', 'zucchini']
+Length of Output    : 189
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.8575925827026367}]
+BLEU Score     : 0.0003
+ROUGE-1:       : Precision=0.0996, Recall=0.7105, F-Measure=0.1748
+ROUGE-2:       : Precision=0.0037, Recall=0.0270, F-Measure=0.0065
+ROUGE-L:       : Precision=0.0590, Recall=0.4211, F-Measure=0.1036
+
+--------------------------------------------------
+Test Case #5
+Output         : In a small bowl blend a potatoes cheese and cream toss to combine until the mixture is smooth about 2 minutes season with salt and pepper until thickened about 2 hours, add the cheese to a casserole dish and chill in the pan add the feta and a few flakes of cream season with a little salt and sour cream and stir to combine in a medium bowl combine the cream and the cream on a rimmed plate and serve.
+Ingredient Test Result   : Pass: Used ['potatoes', 'cheese', 'sour cream']
+Length of Output    : 402
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.9640141129493713}]
+BLEU Score     : 0.0400
+ROUGE-1:       : Precision=0.2468, Recall=0.4875, F-Measure=0.3277
+ROUGE-2:       : Precision=0.0637, Recall=0.1266, F-Measure=0.0847
+ROUGE-L:       : Precision=0.1519, Recall=0.3000, F-Measure=0.2017
+
+--------------------------------------------------
+Test Case #6
+Output         : In a small bowl whisk in the rots and paprika in a large bowl whisk the thyme and the ingredients in ice cream until a little browned about 2 minutes or until browned and tender about 2 hours add the potatoes and the chives until smooth about 1 minute remove the tang from the grill.
+Ingredient Test Result   : Fail: did not include ['beef', 'carrots']
+Length of Output    : 283
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.9857404828071594}]
+BLEU Score     : 0.0213
+ROUGE-1:       : Precision=0.1186, Recall=0.5091, F-Measure=0.1924
+ROUGE-2:       : Precision=0.0128, Recall=0.0556, F-Measure=0.0208
+ROUGE-L:       : Precision=0.0890, Recall=0.3818, F-Measure=0.1443
+
+--------------------------------------------------
+Test Case #7
+Output         : In a large bowl add the ingredients and a sauce to the bowl and serve.
+Ingredient Test Result   : Fail: did not include ['chicken', 'broccoli', 'rice', 'soy sauce']
+Length of Output    : 70
+Length Test Result  : Fail: recipe is too short
+Sentiment Score: [{'label': 'POSITIVE', 'score': 0.9494754672050476}]
+BLEU Score     : 0.0000
+ROUGE-1:       : Precision=0.0447, Recall=0.7333, F-Measure=0.0843
+ROUGE-2:       : Precision=0.0163, Recall=0.2857, F-Measure=0.0309
+ROUGE-L:       : Precision=0.0366, Recall=0.6000, F-Measure=0.0690
+
+--------------------------------------------------
+Test Case #8
+Output         : In a medium bowl whisk the ingredients in a large bowl and whisk the butter until well combined the mixture is golden brown add the peppers and sauté until the onions are smooth add the juices and stir until a mixture is thickened and the spices are melted and well coated if desired.
+Ingredient Test Result   : Fail: did not include ['salmon', 'asparagus', 'lemon', 'dill']
+Length of Output    : 284
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'POSITIVE', 'score': 0.9955376386642456}]
+BLEU Score     : 0.0035
+ROUGE-1:       : Precision=0.1617, Recall=0.5094, F-Measure=0.2455
+ROUGE-2:       : Precision=0.0301, Recall=0.0962, F-Measure=0.0459
+ROUGE-L:       : Precision=0.0958, Recall=0.3019, F-Measure=0.1455
+
+--------------------------------------------------
+Test Case #9
+Output         : In a large bowl mix a tofu mixture and a small bowl whisk in a whisk together the remaining ingredients in octopus and serve with a salt and pepper and stir until the meat is tender about 20 minutes and then cut into half by 2 minute and chill until the mixture is tender 2 minutes and the vegetables are tender 2 hours before serving.
+Ingredient Test Result   : Fail: did not include ['broccoli', 'scallions']
+Length of Output    : 335
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.9598654508590698}]
+BLEU Score     : 0.0169
+ROUGE-1:       : Precision=0.1184, Recall=0.6923, F-Measure=0.2022
+ROUGE-2:       : Precision=0.0317, Recall=0.1875, F-Measure=0.0542
+ROUGE-L:       : Precision=0.0658, Recall=0.3846, F-Measure=0.1124
+
+--------------------------------------------------
+Test Case #10
+Output         : In a large bowl whisk all of the ingredients in a small bowl and add to the bowl mix the onion oil to the sides to combine the onions and cheese until the onion is tender and fried about 2 minutes stir the bread in the pan and serve immediately.
+Ingredient Test Result   : Fail: did not include ['pork', 'sage', 'butter']
+Length of Output    : 245
+Length Test Result  : Pass
+Sentiment Score: [{'label': 'NEGATIVE', 'score': 0.888570249080658}]
+BLEU Score     : 0.0027
+ROUGE-1:       : Precision=0.1317, Recall=0.5400, F-Measure=0.2118
+ROUGE-2:       : Precision=0.0245, Recall=0.1020, F-Measure=0.0395
+ROUGE-L:       : Precision=0.0878, Recall=0.3600, F-Measure=0.1412
+
+--------------------------------------------------

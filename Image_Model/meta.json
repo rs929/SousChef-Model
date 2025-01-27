@@ -1,0 +1,3990 @@
+{
+    "classes": [
+        {
+            "title": "bread-wholemeal",
+            "shape": "polygon",
+            "color": "#0F8A39",
+            "geometry_config": {},
+            "id": 3415,
+            "hotkey": ""
+        },
+        {
+            "title": "jam",
+            "shape": "polygon",
+            "color": "#8A460F",
+            "geometry_config": {},
+            "id": 3417,
+            "hotkey": ""
+        },
+        {
+            "title": "water",
+            "shape": "polygon",
+            "color": "#590F8A",
+            "geometry_config": {},
+            "id": 3419,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-sourdough",
+            "shape": "polygon",
+            "color": "#0F8A4B",
+            "geometry_config": {},
+            "id": 3421,
+            "hotkey": ""
+        },
+        {
+            "title": "banana",
+            "shape": "polygon",
+            "color": "#470F8A",
+            "geometry_config": {},
+            "id": 3423,
+            "hotkey": ""
+        },
+        {
+            "title": "soft-cheese",
+            "shape": "polygon",
+            "color": "#0F8A66",
+            "geometry_config": {},
+            "id": 3425,
+            "hotkey": ""
+        },
+        {
+            "title": "ham-raw",
+            "shape": "polygon",
+            "color": "#0F128A",
+            "geometry_config": {},
+            "id": 3427,
+            "hotkey": ""
+        },
+        {
+            "title": "hard-cheese",
+            "shape": "polygon",
+            "color": "#8A0F3F",
+            "geometry_config": {},
+            "id": 3429,
+            "hotkey": ""
+        },
+        {
+            "title": "cottage-cheese",
+            "shape": "polygon",
+            "color": "#558A0F",
+            "geometry_config": {},
+            "id": 3431,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-half-white",
+            "shape": "polygon",
+            "color": "#1C0F8A",
+            "geometry_config": {},
+            "id": 3433,
+            "hotkey": ""
+        },
+        {
+            "title": "coffee-with-caffeine",
+            "shape": "polygon",
+            "color": "#0F8A45",
+            "geometry_config": {},
+            "id": 3435,
+            "hotkey": ""
+        },
+        {
+            "title": "fruit-salad",
+            "shape": "polygon",
+            "color": "#788A0F",
+            "geometry_config": {},
+            "id": 3437,
+            "hotkey": ""
+        },
+        {
+            "title": "pancakes",
+            "shape": "polygon",
+            "color": "#128A0F",
+            "geometry_config": {},
+            "id": 3439,
+            "hotkey": ""
+        },
+        {
+            "title": "tea",
+            "shape": "polygon",
+            "color": "#8A0F4F",
+            "geometry_config": {},
+            "id": 3441,
+            "hotkey": ""
+        },
+        {
+            "title": "salmon-smoked",
+            "shape": "polygon",
+            "color": "#8A0F3C",
+            "geometry_config": {},
+            "id": 3443,
+            "hotkey": ""
+        },
+        {
+            "title": "avocado",
+            "shape": "polygon",
+            "color": "#0F8A15",
+            "geometry_config": {},
+            "id": 3445,
+            "hotkey": ""
+        },
+        {
+            "title": "spring-onion-scallion",
+            "shape": "polygon",
+            "color": "#4A8A0F",
+            "geometry_config": {},
+            "id": 3447,
+            "hotkey": ""
+        },
+        {
+            "title": "ristretto-with-caffeine",
+            "shape": "polygon",
+            "color": "#0F8A10",
+            "geometry_config": {},
+            "id": 3449,
+            "hotkey": ""
+        },
+        {
+            "title": "ham",
+            "shape": "polygon",
+            "color": "#630F8A",
+            "geometry_config": {},
+            "id": 3451,
+            "hotkey": ""
+        },
+        {
+            "title": "egg",
+            "shape": "polygon",
+            "color": "#750F8A",
+            "geometry_config": {},
+            "id": 3453,
+            "hotkey": ""
+        },
+        {
+            "title": "bacon-frying",
+            "shape": "polygon",
+            "color": "#798A0F",
+            "geometry_config": {},
+            "id": 3455,
+            "hotkey": ""
+        },
+        {
+            "title": "chips-french-fries",
+            "shape": "polygon",
+            "color": "#790F8A",
+            "geometry_config": {},
+            "id": 3457,
+            "hotkey": ""
+        },
+        {
+            "title": "juice-apple",
+            "shape": "polygon",
+            "color": "#378A0F",
+            "geometry_config": {},
+            "id": 3459,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken",
+            "shape": "polygon",
+            "color": "#8A0F4E",
+            "geometry_config": {},
+            "id": 3461,
+            "hotkey": ""
+        },
+        {
+            "title": "tomato-raw",
+            "shape": "polygon",
+            "color": "#6F0F8A",
+            "geometry_config": {},
+            "id": 3463,
+            "hotkey": ""
+        },
+        {
+            "title": "broccoli",
+            "shape": "polygon",
+            "color": "#8A0F63",
+            "geometry_config": {},
+            "id": 3465,
+            "hotkey": ""
+        },
+        {
+            "title": "shrimp-boiled",
+            "shape": "polygon",
+            "color": "#8A750F",
+            "geometry_config": {},
+            "id": 3467,
+            "hotkey": ""
+        },
+        {
+            "title": "beetroot-steamed-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#110F8A",
+            "geometry_config": {},
+            "id": 3469,
+            "hotkey": ""
+        },
+        {
+            "title": "carrot-raw",
+            "shape": "polygon",
+            "color": "#8A550F",
+            "geometry_config": {},
+            "id": 3471,
+            "hotkey": ""
+        },
+        {
+            "title": "chickpeas",
+            "shape": "polygon",
+            "color": "#320F8A",
+            "geometry_config": {},
+            "id": 3473,
+            "hotkey": ""
+        },
+        {
+            "title": "french-salad-dressing",
+            "shape": "polygon",
+            "color": "#400F8A",
+            "geometry_config": {},
+            "id": 3475,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-hornli",
+            "shape": "polygon",
+            "color": "#0F8A10",
+            "geometry_config": {},
+            "id": 3477,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-cream",
+            "shape": "polygon",
+            "color": "#528A0F",
+            "geometry_config": {},
+            "id": 3479,
+            "hotkey": ""
+        },
+        {
+            "title": "meat-balls",
+            "shape": "polygon",
+            "color": "#230F8A",
+            "geometry_config": {},
+            "id": 3481,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta",
+            "shape": "polygon",
+            "color": "#8A0F3B",
+            "geometry_config": {},
+            "id": 3483,
+            "hotkey": ""
+        },
+        {
+            "title": "tomato-sauce",
+            "shape": "polygon",
+            "color": "#0F838A",
+            "geometry_config": {},
+            "id": 3485,
+            "hotkey": ""
+        },
+        {
+            "title": "cheese",
+            "shape": "polygon",
+            "color": "#8A0F21",
+            "geometry_config": {},
+            "id": 3487,
+            "hotkey": ""
+        },
+        {
+            "title": "pear",
+            "shape": "polygon",
+            "color": "#8A630F",
+            "geometry_config": {},
+            "id": 3489,
+            "hotkey": ""
+        },
+        {
+            "title": "cashew-nut",
+            "shape": "polygon",
+            "color": "#8A440F",
+            "geometry_config": {},
+            "id": 3491,
+            "hotkey": ""
+        },
+        {
+            "title": "almonds",
+            "shape": "polygon",
+            "color": "#790F8A",
+            "geometry_config": {},
+            "id": 3493,
+            "hotkey": ""
+        },
+        {
+            "title": "lentils",
+            "shape": "polygon",
+            "color": "#6D8A0F",
+            "geometry_config": {},
+            "id": 3495,
+            "hotkey": ""
+        },
+        {
+            "title": "mixed-vegetables",
+            "shape": "polygon",
+            "color": "#0F358A",
+            "geometry_config": {},
+            "id": 3497,
+            "hotkey": ""
+        },
+        {
+            "title": "peanut-butter",
+            "shape": "polygon",
+            "color": "#228A0F",
+            "geometry_config": {},
+            "id": 3499,
+            "hotkey": ""
+        },
+        {
+            "title": "apple",
+            "shape": "polygon",
+            "color": "#0F778A",
+            "geometry_config": {},
+            "id": 3501,
+            "hotkey": ""
+        },
+        {
+            "title": "blueberries",
+            "shape": "polygon",
+            "color": "#0F8A23",
+            "geometry_config": {},
+            "id": 3503,
+            "hotkey": ""
+        },
+        {
+            "title": "cucumber",
+            "shape": "polygon",
+            "color": "#8A620F",
+            "geometry_config": {},
+            "id": 3505,
+            "hotkey": ""
+        },
+        {
+            "title": "cocoa-powder",
+            "shape": "polygon",
+            "color": "#110F8A",
+            "geometry_config": {},
+            "id": 3507,
+            "hotkey": ""
+        },
+        {
+            "title": "greek-yaourt-yahourt-yogourt-ou-yoghourt",
+            "shape": "polygon",
+            "color": "#1A8A0F",
+            "geometry_config": {},
+            "id": 3509,
+            "hotkey": ""
+        },
+        {
+            "title": "maple-syrup-concentrate",
+            "shape": "polygon",
+            "color": "#240F8A",
+            "geometry_config": {},
+            "id": 3511,
+            "hotkey": ""
+        },
+        {
+            "title": "buckwheat-grain-peeled",
+            "shape": "polygon",
+            "color": "#8A0F1F",
+            "geometry_config": {},
+            "id": 3513,
+            "hotkey": ""
+        },
+        {
+            "title": "butter",
+            "shape": "polygon",
+            "color": "#8A0F24",
+            "geometry_config": {},
+            "id": 3515,
+            "hotkey": ""
+        },
+        {
+            "title": "herbal-tea",
+            "shape": "polygon",
+            "color": "#8A0F20",
+            "geometry_config": {},
+            "id": 3517,
+            "hotkey": ""
+        },
+        {
+            "title": "mayonnaise",
+            "shape": "polygon",
+            "color": "#8A0F29",
+            "geometry_config": {},
+            "id": 3519,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-vegetable",
+            "shape": "polygon",
+            "color": "#3A8A0F",
+            "geometry_config": {},
+            "id": 3521,
+            "hotkey": ""
+        },
+        {
+            "title": "wine-red",
+            "shape": "polygon",
+            "color": "#0F5C8A",
+            "geometry_config": {},
+            "id": 3523,
+            "hotkey": ""
+        },
+        {
+            "title": "wine-white",
+            "shape": "polygon",
+            "color": "#2D8A0F",
+            "geometry_config": {},
+            "id": 3525,
+            "hotkey": ""
+        },
+        {
+            "title": "green-bean-steamed-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#5B8A0F",
+            "geometry_config": {},
+            "id": 3527,
+            "hotkey": ""
+        },
+        {
+            "title": "sausage",
+            "shape": "polygon",
+            "color": "#570F8A",
+            "geometry_config": {},
+            "id": 3529,
+            "hotkey": ""
+        },
+        {
+            "title": "pizza-margherita-baked",
+            "shape": "polygon",
+            "color": "#0F8A28",
+            "geometry_config": {},
+            "id": 3531,
+            "hotkey": ""
+        },
+        {
+            "title": "salami",
+            "shape": "polygon",
+            "color": "#610F8A",
+            "geometry_config": {},
+            "id": 3533,
+            "hotkey": ""
+        },
+        {
+            "title": "mushroom",
+            "shape": "polygon",
+            "color": "#0F8A41",
+            "geometry_config": {},
+            "id": 3535,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-meat-substitute-lettuce-sauce",
+            "shape": "polygon",
+            "color": "#8A0F25",
+            "geometry_config": {},
+            "id": 3537,
+            "hotkey": ""
+        },
+        {
+            "title": "tart",
+            "shape": "polygon",
+            "color": "#0F548A",
+            "geometry_config": {},
+            "id": 3539,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-verveine",
+            "shape": "polygon",
+            "color": "#0F8A33",
+            "geometry_config": {},
+            "id": 3541,
+            "hotkey": ""
+        },
+        {
+            "title": "rice",
+            "shape": "polygon",
+            "color": "#8A0F88",
+            "geometry_config": {},
+            "id": 3543,
+            "hotkey": ""
+        },
+        {
+            "title": "white-coffee-with-caffeine",
+            "shape": "polygon",
+            "color": "#0F3A8A",
+            "geometry_config": {},
+            "id": 3545,
+            "hotkey": ""
+        },
+        {
+            "title": "linseeds",
+            "shape": "polygon",
+            "color": "#458A0F",
+            "geometry_config": {},
+            "id": 3547,
+            "hotkey": ""
+        },
+        {
+            "title": "sunflower-seeds",
+            "shape": "polygon",
+            "color": "#290F8A",
+            "geometry_config": {},
+            "id": 3549,
+            "hotkey": ""
+        },
+        {
+            "title": "ham-cooked",
+            "shape": "polygon",
+            "color": "#8A0F6A",
+            "geometry_config": {},
+            "id": 3551,
+            "hotkey": ""
+        },
+        {
+            "title": "bell-pepper-red-raw",
+            "shape": "polygon",
+            "color": "#0F8A55",
+            "geometry_config": {},
+            "id": 3553,
+            "hotkey": ""
+        },
+        {
+            "title": "zucchini",
+            "shape": "polygon",
+            "color": "#8A490F",
+            "geometry_config": {},
+            "id": 3555,
+            "hotkey": ""
+        },
+        {
+            "title": "green-asparagus",
+            "shape": "polygon",
+            "color": "#138A0F",
+            "geometry_config": {},
+            "id": 3557,
+            "hotkey": ""
+        },
+        {
+            "title": "tartar-sauce",
+            "shape": "polygon",
+            "color": "#0F318A",
+            "geometry_config": {},
+            "id": 3559,
+            "hotkey": ""
+        },
+        {
+            "title": "lye-pretzel-soft",
+            "shape": "polygon",
+            "color": "#8A3E0F",
+            "geometry_config": {},
+            "id": 3561,
+            "hotkey": ""
+        },
+        {
+            "title": "cucumber-pickled",
+            "shape": "polygon",
+            "color": "#0F8A7F",
+            "geometry_config": {},
+            "id": 3563,
+            "hotkey": ""
+        },
+        {
+            "title": "curry-vegetarian",
+            "shape": "polygon",
+            "color": "#8A640F",
+            "geometry_config": {},
+            "id": 3565,
+            "hotkey": ""
+        },
+        {
+            "title": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "shape": "polygon",
+            "color": "#8A0F7A",
+            "geometry_config": {},
+            "id": 3567,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-of-lentils-dahl-dhal",
+            "shape": "polygon",
+            "color": "#0F8A1C",
+            "geometry_config": {},
+            "id": 3569,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-cream-of-vegetables",
+            "shape": "polygon",
+            "color": "#0F6F8A",
+            "geometry_config": {},
+            "id": 3571,
+            "hotkey": ""
+        },
+        {
+            "title": "balsamic-vinegar",
+            "shape": "polygon",
+            "color": "#0F8A3C",
+            "geometry_config": {},
+            "id": 3573,
+            "hotkey": ""
+        },
+        {
+            "title": "salmon",
+            "shape": "polygon",
+            "color": "#2A0F8A",
+            "geometry_config": {},
+            "id": 3575,
+            "hotkey": ""
+        },
+        {
+            "title": "salt-cake-vegetables-filled",
+            "shape": "polygon",
+            "color": "#8A1A0F",
+            "geometry_config": {},
+            "id": 3577,
+            "hotkey": ""
+        },
+        {
+            "title": "bacon",
+            "shape": "polygon",
+            "color": "#0F358A",
+            "geometry_config": {},
+            "id": 3579,
+            "hotkey": ""
+        },
+        {
+            "title": "orange",
+            "shape": "polygon",
+            "color": "#0F8A22",
+            "geometry_config": {},
+            "id": 3581,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-noodles",
+            "shape": "polygon",
+            "color": "#1B0F8A",
+            "geometry_config": {},
+            "id": 3583,
+            "hotkey": ""
+        },
+        {
+            "title": "cream",
+            "shape": "polygon",
+            "color": "#0F598A",
+            "geometry_config": {},
+            "id": 3585,
+            "hotkey": ""
+        },
+        {
+            "title": "cake-chocolate",
+            "shape": "polygon",
+            "color": "#8A4A0F",
+            "geometry_config": {},
+            "id": 3587,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-spaghetti",
+            "shape": "polygon",
+            "color": "#0F358A",
+            "geometry_config": {},
+            "id": 3589,
+            "hotkey": ""
+        },
+        {
+            "title": "black-olives",
+            "shape": "polygon",
+            "color": "#0F5F8A",
+            "geometry_config": {},
+            "id": 3591,
+            "hotkey": ""
+        },
+        {
+            "title": "parmesan",
+            "shape": "polygon",
+            "color": "#8A560F",
+            "geometry_config": {},
+            "id": 3593,
+            "hotkey": ""
+        },
+        {
+            "title": "spaetzle",
+            "shape": "polygon",
+            "color": "#8A0F86",
+            "geometry_config": {},
+            "id": 3595,
+            "hotkey": ""
+        },
+        {
+            "title": "salad-lambs-ear",
+            "shape": "polygon",
+            "color": "#0F748A",
+            "geometry_config": {},
+            "id": 3597,
+            "hotkey": ""
+        },
+        {
+            "title": "salad-leaf-salad-green",
+            "shape": "polygon",
+            "color": "#3C0F8A",
+            "geometry_config": {},
+            "id": 3599,
+            "hotkey": ""
+        },
+        {
+            "title": "potatoes-steamed",
+            "shape": "polygon",
+            "color": "#3C0F8A",
+            "geometry_config": {},
+            "id": 3601,
+            "hotkey": ""
+        },
+        {
+            "title": "white-cabbage",
+            "shape": "polygon",
+            "color": "#0F718A",
+            "geometry_config": {},
+            "id": 3603,
+            "hotkey": ""
+        },
+        {
+            "title": "halloumi",
+            "shape": "polygon",
+            "color": "#4A0F8A",
+            "geometry_config": {},
+            "id": 3605,
+            "hotkey": ""
+        },
+        {
+            "title": "beetroot-raw",
+            "shape": "polygon",
+            "color": "#2D8A0F",
+            "geometry_config": {},
+            "id": 3607,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-grain",
+            "shape": "polygon",
+            "color": "#5A0F8A",
+            "geometry_config": {},
+            "id": 3609,
+            "hotkey": ""
+        },
+        {
+            "title": "applesauce-unsweetened-canned",
+            "shape": "polygon",
+            "color": "#8A0F6D",
+            "geometry_config": {},
+            "id": 3611,
+            "hotkey": ""
+        },
+        {
+            "title": "cheese-for-raclette",
+            "shape": "polygon",
+            "color": "#0F658A",
+            "geometry_config": {},
+            "id": 3613,
+            "hotkey": ""
+        },
+        {
+            "title": "mushrooms",
+            "shape": "polygon",
+            "color": "#8A6F0F",
+            "geometry_config": {},
+            "id": 3615,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-white",
+            "shape": "polygon",
+            "color": "#5F8A0F",
+            "geometry_config": {},
+            "id": 3617,
+            "hotkey": ""
+        },
+        {
+            "title": "curds-natural-with-at-most-10-fidm",
+            "shape": "polygon",
+            "color": "#580F8A",
+            "geometry_config": {},
+            "id": 3619,
+            "hotkey": ""
+        },
+        {
+            "title": "bagel-without-filling",
+            "shape": "polygon",
+            "color": "#2B8A0F",
+            "geometry_config": {},
+            "id": 3621,
+            "hotkey": ""
+        },
+        {
+            "title": "quiche-with-cheese-baked-with-puff-pastry",
+            "shape": "polygon",
+            "color": "#5B0F8A",
+            "geometry_config": {},
+            "id": 3623,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-potato",
+            "shape": "polygon",
+            "color": "#210F8A",
+            "geometry_config": {},
+            "id": 3625,
+            "hotkey": ""
+        },
+        {
+            "title": "bouillon-vegetable",
+            "shape": "polygon",
+            "color": "#0F158A",
+            "geometry_config": {},
+            "id": 3627,
+            "hotkey": ""
+        },
+        {
+            "title": "beef-sirloin-steak",
+            "shape": "polygon",
+            "color": "#0F548A",
+            "geometry_config": {},
+            "id": 3629,
+            "hotkey": ""
+        },
+        {
+            "title": "taboule-prepared-with-couscous",
+            "shape": "polygon",
+            "color": "#8A160F",
+            "geometry_config": {},
+            "id": 3631,
+            "hotkey": ""
+        },
+        {
+            "title": "eggplant",
+            "shape": "polygon",
+            "color": "#0F8A26",
+            "geometry_config": {},
+            "id": 3633,
+            "hotkey": ""
+        },
+        {
+            "title": "bread",
+            "shape": "polygon",
+            "color": "#0F3C8A",
+            "geometry_config": {},
+            "id": 3635,
+            "hotkey": ""
+        },
+        {
+            "title": "turnover-with-meat-small-meat-pie-empanadas",
+            "shape": "polygon",
+            "color": "#8A0F11",
+            "geometry_config": {},
+            "id": 3637,
+            "hotkey": ""
+        },
+        {
+            "title": "mungbean-sprouts",
+            "shape": "polygon",
+            "color": "#8A0F53",
+            "geometry_config": {},
+            "id": 3639,
+            "hotkey": ""
+        },
+        {
+            "title": "mozzarella",
+            "shape": "polygon",
+            "color": "#0F8A16",
+            "geometry_config": {},
+            "id": 3641,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-penne",
+            "shape": "polygon",
+            "color": "#0F8A22",
+            "geometry_config": {},
+            "id": 3643,
+            "hotkey": ""
+        },
+        {
+            "title": "lasagne-vegetable-prepared",
+            "shape": "polygon",
+            "color": "#4F8A0F",
+            "geometry_config": {},
+            "id": 3645,
+            "hotkey": ""
+        },
+        {
+            "title": "mandarine",
+            "shape": "polygon",
+            "color": "#0F628A",
+            "geometry_config": {},
+            "id": 3647,
+            "hotkey": ""
+        },
+        {
+            "title": "kiwi",
+            "shape": "polygon",
+            "color": "#0F8A86",
+            "geometry_config": {},
+            "id": 3649,
+            "hotkey": ""
+        },
+        {
+            "title": "french-beans",
+            "shape": "polygon",
+            "color": "#8A870F",
+            "geometry_config": {},
+            "id": 3651,
+            "hotkey": ""
+        },
+        {
+            "title": "tartar-meat",
+            "shape": "polygon",
+            "color": "#190F8A",
+            "geometry_config": {},
+            "id": 3653,
+            "hotkey": ""
+        },
+        {
+            "title": "spring-roll-fried",
+            "shape": "polygon",
+            "color": "#8A0F2F",
+            "geometry_config": {},
+            "id": 3655,
+            "hotkey": ""
+        },
+        {
+            "title": "pork-chop",
+            "shape": "polygon",
+            "color": "#8A0F69",
+            "geometry_config": {},
+            "id": 3657,
+            "hotkey": ""
+        },
+        {
+            "title": "caprese-salad-tomato-mozzarella",
+            "shape": "polygon",
+            "color": "#8A0F71",
+            "geometry_config": {},
+            "id": 3659,
+            "hotkey": ""
+        },
+        {
+            "title": "leaf-spinach",
+            "shape": "polygon",
+            "color": "#270F8A",
+            "geometry_config": {},
+            "id": 3661,
+            "hotkey": ""
+        },
+        {
+            "title": "roll-of-half-white-or-white-flour-with-large-void",
+            "shape": "polygon",
+            "color": "#0F8A72",
+            "geometry_config": {},
+            "id": 3663,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-ravioli-stuffing",
+            "shape": "polygon",
+            "color": "#8A0F7C",
+            "geometry_config": {},
+            "id": 3665,
+            "hotkey": ""
+        },
+        {
+            "title": "omelette-plain",
+            "shape": "polygon",
+            "color": "#630F8A",
+            "geometry_config": {},
+            "id": 3667,
+            "hotkey": ""
+        },
+        {
+            "title": "tuna",
+            "shape": "polygon",
+            "color": "#0F8A7F",
+            "geometry_config": {},
+            "id": 3669,
+            "hotkey": ""
+        },
+        {
+            "title": "dark-chocolate",
+            "shape": "polygon",
+            "color": "#8A380F",
+            "geometry_config": {},
+            "id": 3671,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-savoury",
+            "shape": "polygon",
+            "color": "#8A6A0F",
+            "geometry_config": {},
+            "id": 3673,
+            "hotkey": ""
+        },
+        {
+            "title": "dried-raisins",
+            "shape": "polygon",
+            "color": "#538A0F",
+            "geometry_config": {},
+            "id": 3675,
+            "hotkey": ""
+        },
+        {
+            "title": "ice-tea",
+            "shape": "polygon",
+            "color": "#210F8A",
+            "geometry_config": {},
+            "id": 3677,
+            "hotkey": ""
+        },
+        {
+            "title": "kaki",
+            "shape": "polygon",
+            "color": "#0F2D8A",
+            "geometry_config": {},
+            "id": 3679,
+            "hotkey": ""
+        },
+        {
+            "title": "macaroon",
+            "shape": "polygon",
+            "color": "#0F8A63",
+            "geometry_config": {},
+            "id": 3681,
+            "hotkey": ""
+        },
+        {
+            "title": "smoothie",
+            "shape": "polygon",
+            "color": "#0F5A8A",
+            "geometry_config": {},
+            "id": 3683,
+            "hotkey": ""
+        },
+        {
+            "title": "crepe-plain",
+            "shape": "polygon",
+            "color": "#4D8A0F",
+            "geometry_config": {},
+            "id": 3685,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken-nuggets",
+            "shape": "polygon",
+            "color": "#8A7D0F",
+            "geometry_config": {},
+            "id": 3687,
+            "hotkey": ""
+        },
+        {
+            "title": "chili-con-carne-prepared",
+            "shape": "polygon",
+            "color": "#0F328A",
+            "geometry_config": {},
+            "id": 3689,
+            "hotkey": ""
+        },
+        {
+            "title": "veggie-burger",
+            "shape": "polygon",
+            "color": "#830F8A",
+            "geometry_config": {},
+            "id": 3691,
+            "hotkey": ""
+        },
+        {
+            "title": "cream-spinach",
+            "shape": "polygon",
+            "color": "#0F8A61",
+            "geometry_config": {},
+            "id": 3693,
+            "hotkey": ""
+        },
+        {
+            "title": "cod",
+            "shape": "polygon",
+            "color": "#0F378A",
+            "geometry_config": {},
+            "id": 3695,
+            "hotkey": ""
+        },
+        {
+            "title": "chinese-cabbage",
+            "shape": "polygon",
+            "color": "#8A0F5E",
+            "geometry_config": {},
+            "id": 3697,
+            "hotkey": ""
+        },
+        {
+            "title": "hamburger-bread-meat-ketchup",
+            "shape": "polygon",
+            "color": "#118A0F",
+            "geometry_config": {},
+            "id": 3699,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-pumpkin",
+            "shape": "polygon",
+            "color": "#8A0F40",
+            "geometry_config": {},
+            "id": 3701,
+            "hotkey": ""
+        },
+        {
+            "title": "sushi",
+            "shape": "polygon",
+            "color": "#8A460F",
+            "geometry_config": {},
+            "id": 3703,
+            "hotkey": ""
+        },
+        {
+            "title": "chestnuts",
+            "shape": "polygon",
+            "color": "#8A870F",
+            "geometry_config": {},
+            "id": 3705,
+            "hotkey": ""
+        },
+        {
+            "title": "coffee-decaffeinated",
+            "shape": "polygon",
+            "color": "#8A730F",
+            "geometry_config": {},
+            "id": 3707,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-soya",
+            "shape": "polygon",
+            "color": "#8A0F3D",
+            "geometry_config": {},
+            "id": 3709,
+            "hotkey": ""
+        },
+        {
+            "title": "balsamic-salad-dressing",
+            "shape": "polygon",
+            "color": "#8A480F",
+            "geometry_config": {},
+            "id": 3711,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-twist",
+            "shape": "polygon",
+            "color": "#798A0F",
+            "geometry_config": {},
+            "id": 3713,
+            "hotkey": ""
+        },
+        {
+            "title": "bolognaise-sauce",
+            "shape": "polygon",
+            "color": "#378A0F",
+            "geometry_config": {},
+            "id": 3715,
+            "hotkey": ""
+        },
+        {
+            "title": "leek",
+            "shape": "polygon",
+            "color": "#0F538A",
+            "geometry_config": {},
+            "id": 3717,
+            "hotkey": ""
+        },
+        {
+            "title": "fajita-bread-only",
+            "shape": "polygon",
+            "color": "#8A110F",
+            "geometry_config": {},
+            "id": 3719,
+            "hotkey": ""
+        },
+        {
+            "title": "potato-gnocchi",
+            "shape": "polygon",
+            "color": "#8A1B0F",
+            "geometry_config": {},
+            "id": 3721,
+            "hotkey": ""
+        },
+        {
+            "title": "beef-cut-into-stripes-only-meat",
+            "shape": "polygon",
+            "color": "#8A140F",
+            "geometry_config": {},
+            "id": 3723,
+            "hotkey": ""
+        },
+        {
+            "title": "rice-noodles-vermicelli",
+            "shape": "polygon",
+            "color": "#668A0F",
+            "geometry_config": {},
+            "id": 3725,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-ginger",
+            "shape": "polygon",
+            "color": "#8A0F64",
+            "geometry_config": {},
+            "id": 3727,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-green",
+            "shape": "polygon",
+            "color": "#5D8A0F",
+            "geometry_config": {},
+            "id": 3729,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-whole-wheat",
+            "shape": "polygon",
+            "color": "#0F8A2A",
+            "geometry_config": {},
+            "id": 3731,
+            "hotkey": ""
+        },
+        {
+            "title": "onion",
+            "shape": "polygon",
+            "color": "#3D8A0F",
+            "geometry_config": {},
+            "id": 3733,
+            "hotkey": ""
+        },
+        {
+            "title": "garlic",
+            "shape": "polygon",
+            "color": "#0F8A83",
+            "geometry_config": {},
+            "id": 3735,
+            "hotkey": ""
+        },
+        {
+            "title": "hummus",
+            "shape": "polygon",
+            "color": "#648A0F",
+            "geometry_config": {},
+            "id": 3737,
+            "hotkey": ""
+        },
+        {
+            "title": "pizza-with-vegetables-baked",
+            "shape": "polygon",
+            "color": "#8A120F",
+            "geometry_config": {},
+            "id": 3739,
+            "hotkey": ""
+        },
+        {
+            "title": "beer",
+            "shape": "polygon",
+            "color": "#0F558A",
+            "geometry_config": {},
+            "id": 3741,
+            "hotkey": ""
+        },
+        {
+            "title": "glucose-drink-50g",
+            "shape": "polygon",
+            "color": "#0F2C8A",
+            "geometry_config": {},
+            "id": 3743,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken-wing",
+            "shape": "polygon",
+            "color": "#318A0F",
+            "geometry_config": {},
+            "id": 3745,
+            "hotkey": ""
+        },
+        {
+            "title": "ratatouille",
+            "shape": "polygon",
+            "color": "#0F8A4F",
+            "geometry_config": {},
+            "id": 3747,
+            "hotkey": ""
+        },
+        {
+            "title": "peanut",
+            "shape": "polygon",
+            "color": "#630F8A",
+            "geometry_config": {},
+            "id": 3749,
+            "hotkey": ""
+        },
+        {
+            "title": "high-protein-pasta-made-of-lentils-peas",
+            "shape": "polygon",
+            "color": "#0F8A59",
+            "geometry_config": {},
+            "id": 3751,
+            "hotkey": ""
+        },
+        {
+            "title": "cauliflower",
+            "shape": "polygon",
+            "color": "#0F248A",
+            "geometry_config": {},
+            "id": 3753,
+            "hotkey": ""
+        },
+        {
+            "title": "quiche-with-spinach-baked-with-cake-dough",
+            "shape": "polygon",
+            "color": "#8A0F42",
+            "geometry_config": {},
+            "id": 3755,
+            "hotkey": ""
+        },
+        {
+            "title": "green-olives",
+            "shape": "polygon",
+            "color": "#590F8A",
+            "geometry_config": {},
+            "id": 3757,
+            "hotkey": ""
+        },
+        {
+            "title": "brazil-nut",
+            "shape": "polygon",
+            "color": "#8A0F59",
+            "geometry_config": {},
+            "id": 3759,
+            "hotkey": ""
+        },
+        {
+            "title": "eggplant-caviar",
+            "shape": "polygon",
+            "color": "#290F8A",
+            "geometry_config": {},
+            "id": 3761,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-pita",
+            "shape": "polygon",
+            "color": "#8A0F3C",
+            "geometry_config": {},
+            "id": 3763,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-wholemeal",
+            "shape": "polygon",
+            "color": "#8A260F",
+            "geometry_config": {},
+            "id": 3765,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-pesto",
+            "shape": "polygon",
+            "color": "#0F1A8A",
+            "geometry_config": {},
+            "id": 3767,
+            "hotkey": ""
+        },
+        {
+            "title": "oil",
+            "shape": "polygon",
+            "color": "#280F8A",
+            "geometry_config": {},
+            "id": 3769,
+            "hotkey": ""
+        },
+        {
+            "title": "couscous",
+            "shape": "polygon",
+            "color": "#0F8A48",
+            "geometry_config": {},
+            "id": 3771,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-roast",
+            "shape": "polygon",
+            "color": "#510F8A",
+            "geometry_config": {},
+            "id": 3773,
+            "hotkey": ""
+        },
+        {
+            "title": "prosecco",
+            "shape": "polygon",
+            "color": "#0F4B8A",
+            "geometry_config": {},
+            "id": 3775,
+            "hotkey": ""
+        },
+        {
+            "title": "crackers",
+            "shape": "polygon",
+            "color": "#8A3A0F",
+            "geometry_config": {},
+            "id": 3777,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-toast",
+            "shape": "polygon",
+            "color": "#0F118A",
+            "geometry_config": {},
+            "id": 3779,
+            "hotkey": ""
+        },
+        {
+            "title": "shrimp-prawn-small",
+            "shape": "polygon",
+            "color": "#0F8A5E",
+            "geometry_config": {},
+            "id": 3781,
+            "hotkey": ""
+        },
+        {
+            "title": "panna-cotta",
+            "shape": "polygon",
+            "color": "#8A720F",
+            "geometry_config": {},
+            "id": 3783,
+            "hotkey": ""
+        },
+        {
+            "title": "romanesco",
+            "shape": "polygon",
+            "color": "#2B8A0F",
+            "geometry_config": {},
+            "id": 3785,
+            "hotkey": ""
+        },
+        {
+            "title": "water-with-lemon-juice",
+            "shape": "polygon",
+            "color": "#8A0F4C",
+            "geometry_config": {},
+            "id": 3787,
+            "hotkey": ""
+        },
+        {
+            "title": "espresso-with-caffeine",
+            "shape": "polygon",
+            "color": "#8A420F",
+            "geometry_config": {},
+            "id": 3789,
+            "hotkey": ""
+        },
+        {
+            "title": "egg-scrambled-prepared",
+            "shape": "polygon",
+            "color": "#0F8A15",
+            "geometry_config": {},
+            "id": 3791,
+            "hotkey": ""
+        },
+        {
+            "title": "juice-orange",
+            "shape": "polygon",
+            "color": "#8A0F6E",
+            "geometry_config": {},
+            "id": 3793,
+            "hotkey": ""
+        },
+        {
+            "title": "ice-cubes",
+            "shape": "polygon",
+            "color": "#8A160F",
+            "geometry_config": {},
+            "id": 3795,
+            "hotkey": ""
+        },
+        {
+            "title": "braided-white-loaf",
+            "shape": "polygon",
+            "color": "#8A0F20",
+            "geometry_config": {},
+            "id": 3797,
+            "hotkey": ""
+        },
+        {
+            "title": "emmental-cheese",
+            "shape": "polygon",
+            "color": "#0F848A",
+            "geometry_config": {},
+            "id": 3799,
+            "hotkey": ""
+        },
+        {
+            "title": "croissant-wholegrain",
+            "shape": "polygon",
+            "color": "#8A7A0F",
+            "geometry_config": {},
+            "id": 3801,
+            "hotkey": ""
+        },
+        {
+            "title": "hazelnut-chocolate-spread-nutella-ovomaltine-caotina",
+            "shape": "polygon",
+            "color": "#0F768A",
+            "geometry_config": {},
+            "id": 3803,
+            "hotkey": ""
+        },
+        {
+            "title": "tomme",
+            "shape": "polygon",
+            "color": "#0F8A84",
+            "geometry_config": {},
+            "id": 3805,
+            "hotkey": ""
+        },
+        {
+            "title": "water-mineral",
+            "shape": "polygon",
+            "color": "#8A570F",
+            "geometry_config": {},
+            "id": 3807,
+            "hotkey": ""
+        },
+        {
+            "title": "hazelnut",
+            "shape": "polygon",
+            "color": "#8A0F4F",
+            "geometry_config": {},
+            "id": 3809,
+            "hotkey": ""
+        },
+        {
+            "title": "bacon-raw",
+            "shape": "polygon",
+            "color": "#0F818A",
+            "geometry_config": {},
+            "id": 3811,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-nut",
+            "shape": "polygon",
+            "color": "#0F8A81",
+            "geometry_config": {},
+            "id": 3813,
+            "hotkey": ""
+        },
+        {
+            "title": "black-forest-tart",
+            "shape": "polygon",
+            "color": "#8A540F",
+            "geometry_config": {},
+            "id": 3815,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-miso",
+            "shape": "polygon",
+            "color": "#0F8A8A",
+            "geometry_config": {},
+            "id": 3817,
+            "hotkey": ""
+        },
+        {
+            "title": "peach",
+            "shape": "polygon",
+            "color": "#8A5D0F",
+            "geometry_config": {},
+            "id": 3819,
+            "hotkey": ""
+        },
+        {
+            "title": "figs",
+            "shape": "polygon",
+            "color": "#0F598A",
+            "geometry_config": {},
+            "id": 3821,
+            "hotkey": ""
+        },
+        {
+            "title": "beef-filet",
+            "shape": "polygon",
+            "color": "#0F8A7F",
+            "geometry_config": {},
+            "id": 3823,
+            "hotkey": ""
+        },
+        {
+            "title": "mustard-dijon",
+            "shape": "polygon",
+            "color": "#7C8A0F",
+            "geometry_config": {},
+            "id": 3825,
+            "hotkey": ""
+        },
+        {
+            "title": "rice-basmati",
+            "shape": "polygon",
+            "color": "#0F8A3A",
+            "geometry_config": {},
+            "id": 3827,
+            "hotkey": ""
+        },
+        {
+            "title": "mashed-potatoes-prepared-with-full-fat-milk-with-butter",
+            "shape": "polygon",
+            "color": "#0F408A",
+            "geometry_config": {},
+            "id": 3829,
+            "hotkey": ""
+        },
+        {
+            "title": "dumplings",
+            "shape": "polygon",
+            "color": "#8A0F61",
+            "geometry_config": {},
+            "id": 3831,
+            "hotkey": ""
+        },
+        {
+            "title": "pumpkin",
+            "shape": "polygon",
+            "color": "#720F8A",
+            "geometry_config": {},
+            "id": 3833,
+            "hotkey": ""
+        },
+        {
+            "title": "swiss-chard",
+            "shape": "polygon",
+            "color": "#0F8A72",
+            "geometry_config": {},
+            "id": 3835,
+            "hotkey": ""
+        },
+        {
+            "title": "red-cabbage",
+            "shape": "polygon",
+            "color": "#478A0F",
+            "geometry_config": {},
+            "id": 3837,
+            "hotkey": ""
+        },
+        {
+            "title": "spinach-raw",
+            "shape": "polygon",
+            "color": "#0F8A35",
+            "geometry_config": {},
+            "id": 3839,
+            "hotkey": ""
+        },
+        {
+            "title": "naan-indien-bread",
+            "shape": "polygon",
+            "color": "#858A0F",
+            "geometry_config": {},
+            "id": 3841,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken-curry-cream-coconut-milk-curry-spices-paste",
+            "shape": "polygon",
+            "color": "#0F8A2A",
+            "geometry_config": {},
+            "id": 3843,
+            "hotkey": ""
+        },
+        {
+            "title": "crunch-muesli",
+            "shape": "polygon",
+            "color": "#8A650F",
+            "geometry_config": {},
+            "id": 3845,
+            "hotkey": ""
+        },
+        {
+            "title": "biscuits",
+            "shape": "polygon",
+            "color": "#6D0F8A",
+            "geometry_config": {},
+            "id": 3847,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-french-white-flour",
+            "shape": "polygon",
+            "color": "#0F8A34",
+            "geometry_config": {},
+            "id": 3849,
+            "hotkey": ""
+        },
+        {
+            "title": "meatloaf",
+            "shape": "polygon",
+            "color": "#8A4F0F",
+            "geometry_config": {},
+            "id": 3851,
+            "hotkey": ""
+        },
+        {
+            "title": "fresh-cheese",
+            "shape": "polygon",
+            "color": "#8A460F",
+            "geometry_config": {},
+            "id": 3853,
+            "hotkey": ""
+        },
+        {
+            "title": "honey",
+            "shape": "polygon",
+            "color": "#8A0F62",
+            "geometry_config": {},
+            "id": 3855,
+            "hotkey": ""
+        },
+        {
+            "title": "vegetable-mix-peas-and-carrots",
+            "shape": "polygon",
+            "color": "#738A0F",
+            "geometry_config": {},
+            "id": 3857,
+            "hotkey": ""
+        },
+        {
+            "title": "parsley",
+            "shape": "polygon",
+            "color": "#7F0F8A",
+            "geometry_config": {},
+            "id": 3859,
+            "hotkey": ""
+        },
+        {
+            "title": "brownie",
+            "shape": "polygon",
+            "color": "#388A0F",
+            "geometry_config": {},
+            "id": 3861,
+            "hotkey": ""
+        },
+        {
+            "title": "dairy-ice-cream",
+            "shape": "polygon",
+            "color": "#838A0F",
+            "geometry_config": {},
+            "id": 3863,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-black",
+            "shape": "polygon",
+            "color": "#0F818A",
+            "geometry_config": {},
+            "id": 3865,
+            "hotkey": ""
+        },
+        {
+            "title": "carrot-cake",
+            "shape": "polygon",
+            "color": "#760F8A",
+            "geometry_config": {},
+            "id": 3867,
+            "hotkey": ""
+        },
+        {
+            "title": "fish-fingers-breaded",
+            "shape": "polygon",
+            "color": "#6F0F8A",
+            "geometry_config": {},
+            "id": 3869,
+            "hotkey": ""
+        },
+        {
+            "title": "salad-dressing",
+            "shape": "polygon",
+            "color": "#8A0F46",
+            "geometry_config": {},
+            "id": 3871,
+            "hotkey": ""
+        },
+        {
+            "title": "dried-meat",
+            "shape": "polygon",
+            "color": "#8A0F49",
+            "geometry_config": {},
+            "id": 3873,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken-breast",
+            "shape": "polygon",
+            "color": "#0F8A14",
+            "geometry_config": {},
+            "id": 3875,
+            "hotkey": ""
+        },
+        {
+            "title": "mixed-salad-chopped-without-sauce",
+            "shape": "polygon",
+            "color": "#8A4A0F",
+            "geometry_config": {},
+            "id": 3877,
+            "hotkey": ""
+        },
+        {
+            "title": "feta",
+            "shape": "polygon",
+            "color": "#858A0F",
+            "geometry_config": {},
+            "id": 3879,
+            "hotkey": ""
+        },
+        {
+            "title": "praline",
+            "shape": "polygon",
+            "color": "#380F8A",
+            "geometry_config": {},
+            "id": 3881,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-peppermint",
+            "shape": "polygon",
+            "color": "#0F118A",
+            "geometry_config": {},
+            "id": 3883,
+            "hotkey": ""
+        },
+        {
+            "title": "walnut",
+            "shape": "polygon",
+            "color": "#8A820F",
+            "geometry_config": {},
+            "id": 3885,
+            "hotkey": ""
+        },
+        {
+            "title": "potato-salad-with-mayonnaise-yogurt-dressing",
+            "shape": "polygon",
+            "color": "#0F5E8A",
+            "geometry_config": {},
+            "id": 3887,
+            "hotkey": ""
+        },
+        {
+            "title": "kebab-in-pita-bread",
+            "shape": "polygon",
+            "color": "#8A0F2E",
+            "geometry_config": {},
+            "id": 3889,
+            "hotkey": ""
+        },
+        {
+            "title": "kolhrabi",
+            "shape": "polygon",
+            "color": "#688A0F",
+            "geometry_config": {},
+            "id": 3891,
+            "hotkey": ""
+        },
+        {
+            "title": "alfa-sprouts",
+            "shape": "polygon",
+            "color": "#468A0F",
+            "geometry_config": {},
+            "id": 3893,
+            "hotkey": ""
+        },
+        {
+            "title": "brussel-sprouts",
+            "shape": "polygon",
+            "color": "#8A0F74",
+            "geometry_config": {},
+            "id": 3895,
+            "hotkey": ""
+        },
+        {
+            "title": "bacon-cooking",
+            "shape": "polygon",
+            "color": "#1E8A0F",
+            "geometry_config": {},
+            "id": 3897,
+            "hotkey": ""
+        },
+        {
+            "title": "gruyere",
+            "shape": "polygon",
+            "color": "#8A0F73",
+            "geometry_config": {},
+            "id": 3899,
+            "hotkey": ""
+        },
+        {
+            "title": "bulgur",
+            "shape": "polygon",
+            "color": "#380F8A",
+            "geometry_config": {},
+            "id": 3901,
+            "hotkey": ""
+        },
+        {
+            "title": "grapes",
+            "shape": "polygon",
+            "color": "#8A0F12",
+            "geometry_config": {},
+            "id": 3903,
+            "hotkey": ""
+        },
+        {
+            "title": "pork-escalope",
+            "shape": "polygon",
+            "color": "#750F8A",
+            "geometry_config": {},
+            "id": 3905,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate-egg-small",
+            "shape": "polygon",
+            "color": "#8A1A0F",
+            "geometry_config": {},
+            "id": 3907,
+            "hotkey": ""
+        },
+        {
+            "title": "cappuccino",
+            "shape": "polygon",
+            "color": "#0F8A62",
+            "geometry_config": {},
+            "id": 3909,
+            "hotkey": ""
+        },
+        {
+            "title": "zucchini-stewed-without-addition-of-fat-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#438A0F",
+            "geometry_config": {},
+            "id": 3911,
+            "hotkey": ""
+        },
+        {
+            "title": "crisp-bread-wasa",
+            "shape": "polygon",
+            "color": "#0F678A",
+            "geometry_config": {},
+            "id": 3913,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-black",
+            "shape": "polygon",
+            "color": "#0F818A",
+            "geometry_config": {},
+            "id": 3915,
+            "hotkey": ""
+        },
+        {
+            "title": "perch-fillets-lake",
+            "shape": "polygon",
+            "color": "#4C8A0F",
+            "geometry_config": {},
+            "id": 3917,
+            "hotkey": ""
+        },
+        {
+            "title": "rosti",
+            "shape": "polygon",
+            "color": "#8A0F52",
+            "geometry_config": {},
+            "id": 3919,
+            "hotkey": ""
+        },
+        {
+            "title": "mango",
+            "shape": "polygon",
+            "color": "#8A0F88",
+            "geometry_config": {},
+            "id": 3921,
+            "hotkey": ""
+        },
+        {
+            "title": "sandwich-ham-cheese-and-butter",
+            "shape": "polygon",
+            "color": "#108A0F",
+            "geometry_config": {},
+            "id": 3923,
+            "hotkey": ""
+        },
+        {
+            "title": "muesli",
+            "shape": "polygon",
+            "color": "#8A400F",
+            "geometry_config": {},
+            "id": 3925,
+            "hotkey": ""
+        },
+        {
+            "title": "spinach-steamed-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#4A8A0F",
+            "geometry_config": {},
+            "id": 3927,
+            "hotkey": ""
+        },
+        {
+            "title": "fish",
+            "shape": "polygon",
+            "color": "#8A0F21",
+            "geometry_config": {},
+            "id": 3929,
+            "hotkey": ""
+        },
+        {
+            "title": "risotto-without-cheese-cooked",
+            "shape": "polygon",
+            "color": "#0F3A8A",
+            "geometry_config": {},
+            "id": 3931,
+            "hotkey": ""
+        },
+        {
+            "title": "milk-chocolate-with-hazelnuts",
+            "shape": "polygon",
+            "color": "#8A0F87",
+            "geometry_config": {},
+            "id": 3933,
+            "hotkey": ""
+        },
+        {
+            "title": "cake-oblong",
+            "shape": "polygon",
+            "color": "#128A0F",
+            "geometry_config": {},
+            "id": 3935,
+            "hotkey": ""
+        },
+        {
+            "title": "crisps",
+            "shape": "polygon",
+            "color": "#8A0F45",
+            "geometry_config": {},
+            "id": 3937,
+            "hotkey": ""
+        },
+        {
+            "title": "pork",
+            "shape": "polygon",
+            "color": "#760F8A",
+            "geometry_config": {},
+            "id": 3939,
+            "hotkey": ""
+        },
+        {
+            "title": "pomegranate",
+            "shape": "polygon",
+            "color": "#188A0F",
+            "geometry_config": {},
+            "id": 3941,
+            "hotkey": ""
+        },
+        {
+            "title": "sweet-corn-canned",
+            "shape": "polygon",
+            "color": "#8A0F42",
+            "geometry_config": {},
+            "id": 3943,
+            "hotkey": ""
+        },
+        {
+            "title": "flakes-oat",
+            "shape": "polygon",
+            "color": "#8A3C0F",
+            "geometry_config": {},
+            "id": 3945,
+            "hotkey": ""
+        },
+        {
+            "title": "greek-salad",
+            "shape": "polygon",
+            "color": "#8A4E0F",
+            "geometry_config": {},
+            "id": 3947,
+            "hotkey": ""
+        },
+        {
+            "title": "cantonese-fried-rice",
+            "shape": "polygon",
+            "color": "#8A3A0F",
+            "geometry_config": {},
+            "id": 3949,
+            "hotkey": ""
+        },
+        {
+            "title": "sesame-seeds",
+            "shape": "polygon",
+            "color": "#8A0F82",
+            "geometry_config": {},
+            "id": 3951,
+            "hotkey": ""
+        },
+        {
+            "title": "bouillon",
+            "shape": "polygon",
+            "color": "#8A670F",
+            "geometry_config": {},
+            "id": 3953,
+            "hotkey": ""
+        },
+        {
+            "title": "baked-potato",
+            "shape": "polygon",
+            "color": "#210F8A",
+            "geometry_config": {},
+            "id": 3955,
+            "hotkey": ""
+        },
+        {
+            "title": "fennel",
+            "shape": "polygon",
+            "color": "#3E0F8A",
+            "geometry_config": {},
+            "id": 3957,
+            "hotkey": ""
+        },
+        {
+            "title": "meat",
+            "shape": "polygon",
+            "color": "#3D8A0F",
+            "geometry_config": {},
+            "id": 3959,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-olive",
+            "shape": "polygon",
+            "color": "#0F2F8A",
+            "geometry_config": {},
+            "id": 3961,
+            "hotkey": ""
+        },
+        {
+            "title": "croutons",
+            "shape": "polygon",
+            "color": "#830F8A",
+            "geometry_config": {},
+            "id": 3963,
+            "hotkey": ""
+        },
+        {
+            "title": "philadelphia",
+            "shape": "polygon",
+            "color": "#8A1B0F",
+            "geometry_config": {},
+            "id": 3965,
+            "hotkey": ""
+        },
+        {
+            "title": "mushroom-average-stewed-without-addition-of-fat-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#510F8A",
+            "geometry_config": {},
+            "id": 3967,
+            "hotkey": ""
+        },
+        {
+            "title": "bell-pepper-red-stewed-without-addition-of-fat-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#8A0F31",
+            "geometry_config": {},
+            "id": 3969,
+            "hotkey": ""
+        },
+        {
+            "title": "white-chocolate",
+            "shape": "polygon",
+            "color": "#8A0F6F",
+            "geometry_config": {},
+            "id": 3971,
+            "hotkey": ""
+        },
+        {
+            "title": "mixed-nuts",
+            "shape": "polygon",
+            "color": "#0F8A21",
+            "geometry_config": {},
+            "id": 3973,
+            "hotkey": ""
+        },
+        {
+            "title": "breadcrumbs-unspiced",
+            "shape": "polygon",
+            "color": "#0F8A34",
+            "geometry_config": {},
+            "id": 3975,
+            "hotkey": ""
+        },
+        {
+            "title": "fondue",
+            "shape": "polygon",
+            "color": "#8A0F3B",
+            "geometry_config": {},
+            "id": 3977,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-mushroom",
+            "shape": "polygon",
+            "color": "#0F5C8A",
+            "geometry_config": {},
+            "id": 3979,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-spice",
+            "shape": "polygon",
+            "color": "#8A0F7B",
+            "geometry_config": {},
+            "id": 3981,
+            "hotkey": ""
+        },
+        {
+            "title": "strawberries",
+            "shape": "polygon",
+            "color": "#8A0F66",
+            "geometry_config": {},
+            "id": 3983,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-rooibos",
+            "shape": "polygon",
+            "color": "#8A0F21",
+            "geometry_config": {},
+            "id": 3985,
+            "hotkey": ""
+        },
+        {
+            "title": "pie-plum-baked-with-cake-dough",
+            "shape": "polygon",
+            "color": "#8A0F2A",
+            "geometry_config": {},
+            "id": 3987,
+            "hotkey": ""
+        },
+        {
+            "title": "potatoes-au-gratin-dauphinois-prepared",
+            "shape": "polygon",
+            "color": "#0F3E8A",
+            "geometry_config": {},
+            "id": 3989,
+            "hotkey": ""
+        },
+        {
+            "title": "capers",
+            "shape": "polygon",
+            "color": "#458A0F",
+            "geometry_config": {},
+            "id": 3991,
+            "hotkey": ""
+        },
+        {
+            "title": "vegetables",
+            "shape": "polygon",
+            "color": "#720F8A",
+            "geometry_config": {},
+            "id": 3993,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-wholemeal-toast",
+            "shape": "polygon",
+            "color": "#0F8A45",
+            "geometry_config": {},
+            "id": 3995,
+            "hotkey": ""
+        },
+        {
+            "title": "red-radish",
+            "shape": "polygon",
+            "color": "#8A0F74",
+            "geometry_config": {},
+            "id": 3997,
+            "hotkey": ""
+        },
+        {
+            "title": "fruit-tart",
+            "shape": "polygon",
+            "color": "#6D8A0F",
+            "geometry_config": {},
+            "id": 3999,
+            "hotkey": ""
+        },
+        {
+            "title": "beans-kidney",
+            "shape": "polygon",
+            "color": "#0F198A",
+            "geometry_config": {},
+            "id": 4001,
+            "hotkey": ""
+        },
+        {
+            "title": "sauerkraut",
+            "shape": "polygon",
+            "color": "#0F1B8A",
+            "geometry_config": {},
+            "id": 4003,
+            "hotkey": ""
+        },
+        {
+            "title": "mustard",
+            "shape": "polygon",
+            "color": "#8A580F",
+            "geometry_config": {},
+            "id": 4005,
+            "hotkey": ""
+        },
+        {
+            "title": "country-fries",
+            "shape": "polygon",
+            "color": "#0F8A19",
+            "geometry_config": {},
+            "id": 4007,
+            "hotkey": ""
+        },
+        {
+            "title": "ketchup",
+            "shape": "polygon",
+            "color": "#0F8A3A",
+            "geometry_config": {},
+            "id": 4009,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-linguini-parpadelle-tagliatelle",
+            "shape": "polygon",
+            "color": "#0F8A26",
+            "geometry_config": {},
+            "id": 4011,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken-cut-into-stripes-only-meat",
+            "shape": "polygon",
+            "color": "#8A820F",
+            "geometry_config": {},
+            "id": 4013,
+            "hotkey": ""
+        },
+        {
+            "title": "cookies",
+            "shape": "polygon",
+            "color": "#140F8A",
+            "geometry_config": {},
+            "id": 4015,
+            "hotkey": ""
+        },
+        {
+            "title": "sun-dried-tomatoe",
+            "shape": "polygon",
+            "color": "#8A0F3F",
+            "geometry_config": {},
+            "id": 4017,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-ticino",
+            "shape": "polygon",
+            "color": "#0F4B8A",
+            "geometry_config": {},
+            "id": 4019,
+            "hotkey": ""
+        },
+        {
+            "title": "semi-hard-cheese",
+            "shape": "polygon",
+            "color": "#7B8A0F",
+            "geometry_config": {},
+            "id": 4021,
+            "hotkey": ""
+        },
+        {
+            "title": "margarine",
+            "shape": "polygon",
+            "color": "#520F8A",
+            "geometry_config": {},
+            "id": 4023,
+            "hotkey": ""
+        },
+        {
+            "title": "porridge-prepared-with-partially-skimmed-milk",
+            "shape": "polygon",
+            "color": "#7E0F8A",
+            "geometry_config": {},
+            "id": 4025,
+            "hotkey": ""
+        },
+        {
+            "title": "soya-drink-soy-milk",
+            "shape": "polygon",
+            "color": "#8A0F60",
+            "geometry_config": {},
+            "id": 4027,
+            "hotkey": ""
+        },
+        {
+            "title": "juice-multifruit",
+            "shape": "polygon",
+            "color": "#0F5A8A",
+            "geometry_config": {},
+            "id": 4029,
+            "hotkey": ""
+        },
+        {
+            "title": "popcorn-salted",
+            "shape": "polygon",
+            "color": "#270F8A",
+            "geometry_config": {},
+            "id": 4031,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate-filled",
+            "shape": "polygon",
+            "color": "#8A150F",
+            "geometry_config": {},
+            "id": 4033,
+            "hotkey": ""
+        },
+        {
+            "title": "milk-chocolate",
+            "shape": "polygon",
+            "color": "#8A0F55",
+            "geometry_config": {},
+            "id": 4035,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-fruit",
+            "shape": "polygon",
+            "color": "#420F8A",
+            "geometry_config": {},
+            "id": 4037,
+            "hotkey": ""
+        },
+        {
+            "title": "mix-of-dried-fruits-and-nuts",
+            "shape": "polygon",
+            "color": "#0F8A64",
+            "geometry_config": {},
+            "id": 4039,
+            "hotkey": ""
+        },
+        {
+            "title": "corn",
+            "shape": "polygon",
+            "color": "#118A0F",
+            "geometry_config": {},
+            "id": 4041,
+            "hotkey": ""
+        },
+        {
+            "title": "tete-de-moine",
+            "shape": "polygon",
+            "color": "#810F8A",
+            "geometry_config": {},
+            "id": 4043,
+            "hotkey": ""
+        },
+        {
+            "title": "dates",
+            "shape": "polygon",
+            "color": "#8A2C0F",
+            "geometry_config": {},
+            "id": 4045,
+            "hotkey": ""
+        },
+        {
+            "title": "pistachio",
+            "shape": "polygon",
+            "color": "#0F8A40",
+            "geometry_config": {},
+            "id": 4047,
+            "hotkey": ""
+        },
+        {
+            "title": "celery",
+            "shape": "polygon",
+            "color": "#2D0F8A",
+            "geometry_config": {},
+            "id": 4049,
+            "hotkey": ""
+        },
+        {
+            "title": "white-radish",
+            "shape": "polygon",
+            "color": "#8A0F10",
+            "geometry_config": {},
+            "id": 4051,
+            "hotkey": ""
+        },
+        {
+            "title": "oat-milk",
+            "shape": "polygon",
+            "color": "#8A0F5D",
+            "geometry_config": {},
+            "id": 4053,
+            "hotkey": ""
+        },
+        {
+            "title": "cream-cheese",
+            "shape": "polygon",
+            "color": "#8A3C0F",
+            "geometry_config": {},
+            "id": 4055,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-rye",
+            "shape": "polygon",
+            "color": "#8A0F17",
+            "geometry_config": {},
+            "id": 4057,
+            "hotkey": ""
+        },
+        {
+            "title": "witloof-chicory",
+            "shape": "polygon",
+            "color": "#8A670F",
+            "geometry_config": {},
+            "id": 4059,
+            "hotkey": ""
+        },
+        {
+            "title": "apple-crumble",
+            "shape": "polygon",
+            "color": "#0F268A",
+            "geometry_config": {},
+            "id": 4061,
+            "hotkey": ""
+        },
+        {
+            "title": "goat-cheese-soft",
+            "shape": "polygon",
+            "color": "#0F4A8A",
+            "geometry_config": {},
+            "id": 4063,
+            "hotkey": ""
+        },
+        {
+            "title": "grapefruit-pomelo",
+            "shape": "polygon",
+            "color": "#0F558A",
+            "geometry_config": {},
+            "id": 4065,
+            "hotkey": ""
+        },
+        {
+            "title": "risotto-with-mushrooms-cooked",
+            "shape": "polygon",
+            "color": "#0F248A",
+            "geometry_config": {},
+            "id": 4067,
+            "hotkey": ""
+        },
+        {
+            "title": "blue-mould-cheese",
+            "shape": "polygon",
+            "color": "#0F8A6F",
+            "geometry_config": {},
+            "id": 4069,
+            "hotkey": ""
+        },
+        {
+            "title": "biscuit-with-butter",
+            "shape": "polygon",
+            "color": "#0F1A8A",
+            "geometry_config": {},
+            "id": 4071,
+            "hotkey": ""
+        },
+        {
+            "title": "guacamole",
+            "shape": "polygon",
+            "color": "#5E0F8A",
+            "geometry_config": {},
+            "id": 4073,
+            "hotkey": ""
+        },
+        {
+            "title": "pecan-nut",
+            "shape": "polygon",
+            "color": "#498A0F",
+            "geometry_config": {},
+            "id": 4075,
+            "hotkey": ""
+        },
+        {
+            "title": "tofu",
+            "shape": "polygon",
+            "color": "#0F8A4A",
+            "geometry_config": {},
+            "id": 4077,
+            "hotkey": ""
+        },
+        {
+            "title": "cordon-bleu-from-pork-schnitzel-fried",
+            "shape": "polygon",
+            "color": "#0F8A12",
+            "geometry_config": {},
+            "id": 4079,
+            "hotkey": ""
+        },
+        {
+            "title": "paprika-chips",
+            "shape": "polygon",
+            "color": "#248A0F",
+            "geometry_config": {},
+            "id": 4081,
+            "hotkey": ""
+        },
+        {
+            "title": "quinoa",
+            "shape": "polygon",
+            "color": "#7F8A0F",
+            "geometry_config": {},
+            "id": 4083,
+            "hotkey": ""
+        },
+        {
+            "title": "kefir-drink",
+            "shape": "polygon",
+            "color": "#8A280F",
+            "geometry_config": {},
+            "id": 4085,
+            "hotkey": ""
+        },
+        {
+            "title": "m-m-s",
+            "shape": "polygon",
+            "color": "#318A0F",
+            "geometry_config": {},
+            "id": 4087,
+            "hotkey": ""
+        },
+        {
+            "title": "salad-rocket",
+            "shape": "polygon",
+            "color": "#8A0F2F",
+            "geometry_config": {},
+            "id": 4089,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-spelt",
+            "shape": "polygon",
+            "color": "#4C8A0F",
+            "geometry_config": {},
+            "id": 4091,
+            "hotkey": ""
+        },
+        {
+            "title": "pizza-with-ham-with-mushrooms-baked",
+            "shape": "polygon",
+            "color": "#0F8A19",
+            "geometry_config": {},
+            "id": 4093,
+            "hotkey": ""
+        },
+        {
+            "title": "fruit-coulis",
+            "shape": "polygon",
+            "color": "#8A3B0F",
+            "geometry_config": {},
+            "id": 4095,
+            "hotkey": ""
+        },
+        {
+            "title": "plums",
+            "shape": "polygon",
+            "color": "#468A0F",
+            "geometry_config": {},
+            "id": 4097,
+            "hotkey": ""
+        },
+        {
+            "title": "beef-minced-only-meat",
+            "shape": "polygon",
+            "color": "#8A0F2F",
+            "geometry_config": {},
+            "id": 4099,
+            "hotkey": ""
+        },
+        {
+            "title": "pizza-with-ham-baked",
+            "shape": "polygon",
+            "color": "#8A2C0F",
+            "geometry_config": {},
+            "id": 4101,
+            "hotkey": ""
+        },
+        {
+            "title": "pineapple",
+            "shape": "polygon",
+            "color": "#8A0F44",
+            "geometry_config": {},
+            "id": 4103,
+            "hotkey": ""
+        },
+        {
+            "title": "soup-tomato",
+            "shape": "polygon",
+            "color": "#220F8A",
+            "geometry_config": {},
+            "id": 4105,
+            "hotkey": ""
+        },
+        {
+            "title": "cheddar",
+            "shape": "polygon",
+            "color": "#8A0F6B",
+            "geometry_config": {},
+            "id": 4107,
+            "hotkey": ""
+        },
+        {
+            "title": "tea-fruit",
+            "shape": "polygon",
+            "color": "#8A6B0F",
+            "geometry_config": {},
+            "id": 4109,
+            "hotkey": ""
+        },
+        {
+            "title": "rice-jasmin",
+            "shape": "polygon",
+            "color": "#778A0F",
+            "geometry_config": {},
+            "id": 4111,
+            "hotkey": ""
+        },
+        {
+            "title": "seeds",
+            "shape": "polygon",
+            "color": "#8A4D0F",
+            "geometry_config": {},
+            "id": 4113,
+            "hotkey": ""
+        },
+        {
+            "title": "focaccia",
+            "shape": "polygon",
+            "color": "#708A0F",
+            "geometry_config": {},
+            "id": 4115,
+            "hotkey": ""
+        },
+        {
+            "title": "milk",
+            "shape": "polygon",
+            "color": "#8A420F",
+            "geometry_config": {},
+            "id": 4117,
+            "hotkey": ""
+        },
+        {
+            "title": "coleslaw-chopped-without-sauce",
+            "shape": "polygon",
+            "color": "#0F8A6F",
+            "geometry_config": {},
+            "id": 4119,
+            "hotkey": ""
+        },
+        {
+            "title": "pastry-flaky",
+            "shape": "polygon",
+            "color": "#7E0F8A",
+            "geometry_config": {},
+            "id": 4121,
+            "hotkey": ""
+        },
+        {
+            "title": "curd",
+            "shape": "polygon",
+            "color": "#328A0F",
+            "geometry_config": {},
+            "id": 4123,
+            "hotkey": ""
+        },
+        {
+            "title": "savoury-puff-pastry-stick",
+            "shape": "polygon",
+            "color": "#0F8A22",
+            "geometry_config": {},
+            "id": 4125,
+            "hotkey": ""
+        },
+        {
+            "title": "sweet-potato",
+            "shape": "polygon",
+            "color": "#8A0F17",
+            "geometry_config": {},
+            "id": 4127,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken-leg",
+            "shape": "polygon",
+            "color": "#628A0F",
+            "geometry_config": {},
+            "id": 4129,
+            "hotkey": ""
+        },
+        {
+            "title": "croissant",
+            "shape": "polygon",
+            "color": "#210F8A",
+            "geometry_config": {},
+            "id": 4131,
+            "hotkey": ""
+        },
+        {
+            "title": "sour-cream",
+            "shape": "polygon",
+            "color": "#6E8A0F",
+            "geometry_config": {},
+            "id": 4133,
+            "hotkey": ""
+        },
+        {
+            "title": "ham-turkey",
+            "shape": "polygon",
+            "color": "#5C8A0F",
+            "geometry_config": {},
+            "id": 4135,
+            "hotkey": ""
+        },
+        {
+            "title": "processed-cheese",
+            "shape": "polygon",
+            "color": "#638A0F",
+            "geometry_config": {},
+            "id": 4137,
+            "hotkey": ""
+        },
+        {
+            "title": "fruit-compotes",
+            "shape": "polygon",
+            "color": "#0F218A",
+            "geometry_config": {},
+            "id": 4139,
+            "hotkey": ""
+        },
+        {
+            "title": "cheesecake",
+            "shape": "polygon",
+            "color": "#0F358A",
+            "geometry_config": {},
+            "id": 4141,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-tortelloni-stuffing",
+            "shape": "polygon",
+            "color": "#8A610F",
+            "geometry_config": {},
+            "id": 4143,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-cocktail",
+            "shape": "polygon",
+            "color": "#0F568A",
+            "geometry_config": {},
+            "id": 4145,
+            "hotkey": ""
+        },
+        {
+            "title": "croissant-with-chocolate-filling",
+            "shape": "polygon",
+            "color": "#8A0F84",
+            "geometry_config": {},
+            "id": 4147,
+            "hotkey": ""
+        },
+        {
+            "title": "pumpkin-seeds",
+            "shape": "polygon",
+            "color": "#0F8A47",
+            "geometry_config": {},
+            "id": 4149,
+            "hotkey": ""
+        },
+        {
+            "title": "artichoke",
+            "shape": "polygon",
+            "color": "#0F8A64",
+            "geometry_config": {},
+            "id": 4151,
+            "hotkey": ""
+        },
+        {
+            "title": "champagne",
+            "shape": "polygon",
+            "color": "#8A0F5D",
+            "geometry_config": {},
+            "id": 4153,
+            "hotkey": ""
+        },
+        {
+            "title": "grissini",
+            "shape": "polygon",
+            "color": "#8A550F",
+            "geometry_config": {},
+            "id": 4155,
+            "hotkey": ""
+        },
+        {
+            "title": "sweets-candies",
+            "shape": "polygon",
+            "color": "#1A8A0F",
+            "geometry_config": {},
+            "id": 4157,
+            "hotkey": ""
+        },
+        {
+            "title": "brie",
+            "shape": "polygon",
+            "color": "#8A0F64",
+            "geometry_config": {},
+            "id": 4159,
+            "hotkey": ""
+        },
+        {
+            "title": "wienerli-swiss-sausage",
+            "shape": "polygon",
+            "color": "#8A0F31",
+            "geometry_config": {},
+            "id": 4161,
+            "hotkey": ""
+        },
+        {
+            "title": "syrup-diluted-ready-to-drink",
+            "shape": "polygon",
+            "color": "#0F8A6E",
+            "geometry_config": {},
+            "id": 4163,
+            "hotkey": ""
+        },
+        {
+            "title": "apple-pie",
+            "shape": "polygon",
+            "color": "#8A4A0F",
+            "geometry_config": {},
+            "id": 4165,
+            "hotkey": ""
+        },
+        {
+            "title": "white-bread-with-butter-eggs-and-milk",
+            "shape": "polygon",
+            "color": "#820F8A",
+            "geometry_config": {},
+            "id": 4167,
+            "hotkey": ""
+        },
+        {
+            "title": "savoury-puff-pastry",
+            "shape": "polygon",
+            "color": "#750F8A",
+            "geometry_config": {},
+            "id": 4169,
+            "hotkey": ""
+        },
+        {
+            "title": "anchovies",
+            "shape": "polygon",
+            "color": "#798A0F",
+            "geometry_config": {},
+            "id": 4171,
+            "hotkey": ""
+        },
+        {
+            "title": "tuna-in-oil-drained",
+            "shape": "polygon",
+            "color": "#8A4D0F",
+            "geometry_config": {},
+            "id": 4173,
+            "hotkey": ""
+        },
+        {
+            "title": "lemon-pie",
+            "shape": "polygon",
+            "color": "#7C8A0F",
+            "geometry_config": {},
+            "id": 4175,
+            "hotkey": ""
+        },
+        {
+            "title": "meat-terrine-pate",
+            "shape": "polygon",
+            "color": "#8A1B0F",
+            "geometry_config": {},
+            "id": 4177,
+            "hotkey": ""
+        },
+        {
+            "title": "coriander",
+            "shape": "polygon",
+            "color": "#8A7F0F",
+            "geometry_config": {},
+            "id": 4179,
+            "hotkey": ""
+        },
+        {
+            "title": "falafel-balls",
+            "shape": "polygon",
+            "color": "#880F8A",
+            "geometry_config": {},
+            "id": 4181,
+            "hotkey": ""
+        },
+        {
+            "title": "berries",
+            "shape": "polygon",
+            "color": "#8A840F",
+            "geometry_config": {},
+            "id": 4183,
+            "hotkey": ""
+        },
+        {
+            "title": "latte-macchiato-with-caffeine",
+            "shape": "polygon",
+            "color": "#0F4C8A",
+            "geometry_config": {},
+            "id": 4185,
+            "hotkey": ""
+        },
+        {
+            "title": "faux-mage-cashew-vegan-chers",
+            "shape": "polygon",
+            "color": "#8A340F",
+            "geometry_config": {},
+            "id": 4187,
+            "hotkey": ""
+        },
+        {
+            "title": "beans-white",
+            "shape": "polygon",
+            "color": "#0F1E8A",
+            "geometry_config": {},
+            "id": 4189,
+            "hotkey": ""
+        },
+        {
+            "title": "sugar-melon",
+            "shape": "polygon",
+            "color": "#8A420F",
+            "geometry_config": {},
+            "id": 4191,
+            "hotkey": ""
+        },
+        {
+            "title": "mixed-seeds",
+            "shape": "polygon",
+            "color": "#0F8A50",
+            "geometry_config": {},
+            "id": 4193,
+            "hotkey": ""
+        },
+        {
+            "title": "hamburger",
+            "shape": "polygon",
+            "color": "#8A0F20",
+            "geometry_config": {},
+            "id": 4195,
+            "hotkey": ""
+        },
+        {
+            "title": "hamburger-bun",
+            "shape": "polygon",
+            "color": "#0F568A",
+            "geometry_config": {},
+            "id": 4197,
+            "hotkey": ""
+        },
+        {
+            "title": "oil-vinegar-salad-dressing",
+            "shape": "polygon",
+            "color": "#4E8A0F",
+            "geometry_config": {},
+            "id": 4199,
+            "hotkey": ""
+        },
+        {
+            "title": "soya-yaourt-yahourt-yogourt-ou-yoghourt",
+            "shape": "polygon",
+            "color": "#6E0F8A",
+            "geometry_config": {},
+            "id": 4201,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate-milk-chocolate-drink",
+            "shape": "polygon",
+            "color": "#0F8A70",
+            "geometry_config": {},
+            "id": 4203,
+            "hotkey": ""
+        },
+        {
+            "title": "celeriac",
+            "shape": "polygon",
+            "color": "#8A570F",
+            "geometry_config": {},
+            "id": 4205,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate-mousse",
+            "shape": "polygon",
+            "color": "#0F8A64",
+            "geometry_config": {},
+            "id": 4207,
+            "hotkey": ""
+        },
+        {
+            "title": "cenovis-yeast-spread",
+            "shape": "polygon",
+            "color": "#878A0F",
+            "geometry_config": {},
+            "id": 4209,
+            "hotkey": ""
+        },
+        {
+            "title": "thickened-cream-35",
+            "shape": "polygon",
+            "color": "#708A0F",
+            "geometry_config": {},
+            "id": 4211,
+            "hotkey": ""
+        },
+        {
+            "title": "meringue",
+            "shape": "polygon",
+            "color": "#708A0F",
+            "geometry_config": {},
+            "id": 4213,
+            "hotkey": ""
+        },
+        {
+            "title": "lamb-chop",
+            "shape": "polygon",
+            "color": "#8A160F",
+            "geometry_config": {},
+            "id": 4215,
+            "hotkey": ""
+        },
+        {
+            "title": "shrimp-prawn-large",
+            "shape": "polygon",
+            "color": "#0F778A",
+            "geometry_config": {},
+            "id": 4217,
+            "hotkey": ""
+        },
+        {
+            "title": "beef",
+            "shape": "polygon",
+            "color": "#8A0F81",
+            "geometry_config": {},
+            "id": 4219,
+            "hotkey": ""
+        },
+        {
+            "title": "lemon",
+            "shape": "polygon",
+            "color": "#8A0F13",
+            "geometry_config": {},
+            "id": 4221,
+            "hotkey": ""
+        },
+        {
+            "title": "croque-monsieur",
+            "shape": "polygon",
+            "color": "#8A0F1C",
+            "geometry_config": {},
+            "id": 4223,
+            "hotkey": ""
+        },
+        {
+            "title": "chives",
+            "shape": "polygon",
+            "color": "#8A560F",
+            "geometry_config": {},
+            "id": 4225,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate-cookies",
+            "shape": "polygon",
+            "color": "#8A400F",
+            "geometry_config": {},
+            "id": 4227,
+            "hotkey": ""
+        },
+        {
+            "title": "birchermuesli-prepared-no-sugar-added",
+            "shape": "polygon",
+            "color": "#0F8A3D",
+            "geometry_config": {},
+            "id": 4229,
+            "hotkey": ""
+        },
+        {
+            "title": "fish-crunchies-battered",
+            "shape": "polygon",
+            "color": "#188A0F",
+            "geometry_config": {},
+            "id": 4231,
+            "hotkey": ""
+        },
+        {
+            "title": "muffin",
+            "shape": "polygon",
+            "color": "#8A0F71",
+            "geometry_config": {},
+            "id": 4233,
+            "hotkey": ""
+        },
+        {
+            "title": "savoy-cabbage-steamed-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#8A0F2F",
+            "geometry_config": {},
+            "id": 4235,
+            "hotkey": ""
+        },
+        {
+            "title": "pine-nuts",
+            "shape": "polygon",
+            "color": "#838A0F",
+            "geometry_config": {},
+            "id": 4237,
+            "hotkey": ""
+        },
+        {
+            "title": "chorizo",
+            "shape": "polygon",
+            "color": "#0F8A15",
+            "geometry_config": {},
+            "id": 4239,
+            "hotkey": ""
+        },
+        {
+            "title": "chia-grains",
+            "shape": "polygon",
+            "color": "#0F638A",
+            "geometry_config": {},
+            "id": 4241,
+            "hotkey": ""
+        },
+        {
+            "title": "frying-sausage",
+            "shape": "polygon",
+            "color": "#8A0F22",
+            "geometry_config": {},
+            "id": 4243,
+            "hotkey": ""
+        },
+        {
+            "title": "french-pizza-from-alsace-baked",
+            "shape": "polygon",
+            "color": "#1D0F8A",
+            "geometry_config": {},
+            "id": 4245,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate",
+            "shape": "polygon",
+            "color": "#328A0F",
+            "geometry_config": {},
+            "id": 4247,
+            "hotkey": ""
+        },
+        {
+            "title": "cooked-sausage",
+            "shape": "polygon",
+            "color": "#8A270F",
+            "geometry_config": {},
+            "id": 4249,
+            "hotkey": ""
+        },
+        {
+            "title": "grits-polenta-maize-flour",
+            "shape": "polygon",
+            "color": "#0F8A64",
+            "geometry_config": {},
+            "id": 4251,
+            "hotkey": ""
+        },
+        {
+            "title": "gummi-bears-fruit-jellies-jelly-babies-with-fruit-essence",
+            "shape": "polygon",
+            "color": "#8A520F",
+            "geometry_config": {},
+            "id": 4253,
+            "hotkey": ""
+        },
+        {
+            "title": "wine-rose",
+            "shape": "polygon",
+            "color": "#0F8A1B",
+            "geometry_config": {},
+            "id": 4255,
+            "hotkey": ""
+        },
+        {
+            "title": "coca-cola",
+            "shape": "polygon",
+            "color": "#2C8A0F",
+            "geometry_config": {},
+            "id": 4257,
+            "hotkey": ""
+        },
+        {
+            "title": "raspberries",
+            "shape": "polygon",
+            "color": "#3C0F8A",
+            "geometry_config": {},
+            "id": 4259,
+            "hotkey": ""
+        },
+        {
+            "title": "roll-with-pieces-of-chocolate",
+            "shape": "polygon",
+            "color": "#8A0F47",
+            "geometry_config": {},
+            "id": 4261,
+            "hotkey": ""
+        },
+        {
+            "title": "goat-average-raw",
+            "shape": "polygon",
+            "color": "#240F8A",
+            "geometry_config": {},
+            "id": 4263,
+            "hotkey": ""
+        },
+        {
+            "title": "lemon-cake",
+            "shape": "polygon",
+            "color": "#0F8A5A",
+            "geometry_config": {},
+            "id": 4265,
+            "hotkey": ""
+        },
+        {
+            "title": "coconut-milk",
+            "shape": "polygon",
+            "color": "#250F8A",
+            "geometry_config": {},
+            "id": 4267,
+            "hotkey": ""
+        },
+        {
+            "title": "rice-wild",
+            "shape": "polygon",
+            "color": "#8A230F",
+            "geometry_config": {},
+            "id": 4269,
+            "hotkey": ""
+        },
+        {
+            "title": "gluten-free-bread",
+            "shape": "polygon",
+            "color": "#8A6E0F",
+            "geometry_config": {},
+            "id": 4271,
+            "hotkey": ""
+        },
+        {
+            "title": "pearl-onions",
+            "shape": "polygon",
+            "color": "#0F208A",
+            "geometry_config": {},
+            "id": 4273,
+            "hotkey": ""
+        },
+        {
+            "title": "buckwheat-pancake",
+            "shape": "polygon",
+            "color": "#8A0F7F",
+            "geometry_config": {},
+            "id": 4275,
+            "hotkey": ""
+        },
+        {
+            "title": "bread-5-grain",
+            "shape": "polygon",
+            "color": "#0F8A3B",
+            "geometry_config": {},
+            "id": 4277,
+            "hotkey": ""
+        },
+        {
+            "title": "light-beer",
+            "shape": "polygon",
+            "color": "#0F3C8A",
+            "geometry_config": {},
+            "id": 4279,
+            "hotkey": ""
+        },
+        {
+            "title": "sugar-glazing",
+            "shape": "polygon",
+            "color": "#560F8A",
+            "geometry_config": {},
+            "id": 4281,
+            "hotkey": ""
+        },
+        {
+            "title": "tzatziki",
+            "shape": "polygon",
+            "color": "#8A0F33",
+            "geometry_config": {},
+            "id": 4283,
+            "hotkey": ""
+        },
+        {
+            "title": "butter-herb",
+            "shape": "polygon",
+            "color": "#208A0F",
+            "geometry_config": {},
+            "id": 4285,
+            "hotkey": ""
+        },
+        {
+            "title": "ham-croissant",
+            "shape": "polygon",
+            "color": "#8A0F48",
+            "geometry_config": {},
+            "id": 4287,
+            "hotkey": ""
+        },
+        {
+            "title": "corn-crisps",
+            "shape": "polygon",
+            "color": "#0F188A",
+            "geometry_config": {},
+            "id": 4289,
+            "hotkey": ""
+        },
+        {
+            "title": "lentils-green-du-puy-du-berry",
+            "shape": "polygon",
+            "color": "#170F8A",
+            "geometry_config": {},
+            "id": 4291,
+            "hotkey": ""
+        },
+        {
+            "title": "cocktail",
+            "shape": "polygon",
+            "color": "#8A3B0F",
+            "geometry_config": {},
+            "id": 4293,
+            "hotkey": ""
+        },
+        {
+            "title": "rice-whole-grain",
+            "shape": "polygon",
+            "color": "#380F8A",
+            "geometry_config": {},
+            "id": 4295,
+            "hotkey": ""
+        },
+        {
+            "title": "veal-sausage",
+            "shape": "polygon",
+            "color": "#8A7D0F",
+            "geometry_config": {},
+            "id": 4297,
+            "hotkey": ""
+        },
+        {
+            "title": "cervelat",
+            "shape": "polygon",
+            "color": "#8A370F",
+            "geometry_config": {},
+            "id": 4299,
+            "hotkey": ""
+        },
+        {
+            "title": "sorbet",
+            "shape": "polygon",
+            "color": "#4B0F8A",
+            "geometry_config": {},
+            "id": 4301,
+            "hotkey": ""
+        },
+        {
+            "title": "aperitif-with-alcohol-aperol-spritz",
+            "shape": "polygon",
+            "color": "#8A0F66",
+            "geometry_config": {},
+            "id": 4303,
+            "hotkey": ""
+        },
+        {
+            "title": "dips",
+            "shape": "polygon",
+            "color": "#8A7F0F",
+            "geometry_config": {},
+            "id": 4305,
+            "hotkey": ""
+        },
+        {
+            "title": "corn-flakes",
+            "shape": "polygon",
+            "color": "#328A0F",
+            "geometry_config": {},
+            "id": 4307,
+            "hotkey": ""
+        },
+        {
+            "title": "peas",
+            "shape": "polygon",
+            "color": "#260F8A",
+            "geometry_config": {},
+            "id": 4309,
+            "hotkey": ""
+        },
+        {
+            "title": "tiramisu",
+            "shape": "polygon",
+            "color": "#0F8A50",
+            "geometry_config": {},
+            "id": 4311,
+            "hotkey": ""
+        },
+        {
+            "title": "apricots",
+            "shape": "polygon",
+            "color": "#0F128A",
+            "geometry_config": {},
+            "id": 4313,
+            "hotkey": ""
+        },
+        {
+            "title": "cake-marble",
+            "shape": "polygon",
+            "color": "#478A0F",
+            "geometry_config": {},
+            "id": 4315,
+            "hotkey": ""
+        },
+        {
+            "title": "lamb",
+            "shape": "polygon",
+            "color": "#698A0F",
+            "geometry_config": {},
+            "id": 4317,
+            "hotkey": ""
+        },
+        {
+            "title": "lasagne-meat-prepared",
+            "shape": "polygon",
+            "color": "#2A0F8A",
+            "geometry_config": {},
+            "id": 4319,
+            "hotkey": ""
+        },
+        {
+            "title": "coca-cola-zero",
+            "shape": "polygon",
+            "color": "#378A0F",
+            "geometry_config": {},
+            "id": 4321,
+            "hotkey": ""
+        },
+        {
+            "title": "cake-salted",
+            "shape": "polygon",
+            "color": "#0F8A53",
+            "geometry_config": {},
+            "id": 4323,
+            "hotkey": ""
+        },
+        {
+            "title": "dough-puff-pastry-shortcrust-bread-pizza-dough",
+            "shape": "polygon",
+            "color": "#458A0F",
+            "geometry_config": {},
+            "id": 4325,
+            "hotkey": ""
+        },
+        {
+            "title": "rice-waffels",
+            "shape": "polygon",
+            "color": "#278A0F",
+            "geometry_config": {},
+            "id": 4327,
+            "hotkey": ""
+        },
+        {
+            "title": "sekt",
+            "shape": "polygon",
+            "color": "#8A240F",
+            "geometry_config": {},
+            "id": 4329,
+            "hotkey": ""
+        },
+        {
+            "title": "brioche",
+            "shape": "polygon",
+            "color": "#8A7B0F",
+            "geometry_config": {},
+            "id": 4331,
+            "hotkey": ""
+        },
+        {
+            "title": "vegetable-au-gratin-baked",
+            "shape": "polygon",
+            "color": "#8A390F",
+            "geometry_config": {},
+            "id": 4333,
+            "hotkey": ""
+        },
+        {
+            "title": "mango-dried",
+            "shape": "polygon",
+            "color": "#410F8A",
+            "geometry_config": {},
+            "id": 4335,
+            "hotkey": ""
+        },
+        {
+            "title": "processed-meat-charcuterie",
+            "shape": "polygon",
+            "color": "#1A0F8A",
+            "geometry_config": {},
+            "id": 4337,
+            "hotkey": ""
+        },
+        {
+            "title": "mousse",
+            "shape": "polygon",
+            "color": "#558A0F",
+            "geometry_config": {},
+            "id": 4339,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-sweet-sour",
+            "shape": "polygon",
+            "color": "#8A0F85",
+            "geometry_config": {},
+            "id": 4341,
+            "hotkey": ""
+        },
+        {
+            "title": "basil",
+            "shape": "polygon",
+            "color": "#0F8A30",
+            "geometry_config": {},
+            "id": 4343,
+            "hotkey": ""
+        },
+        {
+            "title": "butter-spread-puree-almond",
+            "shape": "polygon",
+            "color": "#8A6C0F",
+            "geometry_config": {},
+            "id": 4345,
+            "hotkey": ""
+        },
+        {
+            "title": "pie-apricot-baked-with-cake-dough",
+            "shape": "polygon",
+            "color": "#3D0F8A",
+            "geometry_config": {},
+            "id": 4347,
+            "hotkey": ""
+        },
+        {
+            "title": "rusk-wholemeal",
+            "shape": "polygon",
+            "color": "#408A0F",
+            "geometry_config": {},
+            "id": 4349,
+            "hotkey": ""
+        },
+        {
+            "title": "beef-roast",
+            "shape": "polygon",
+            "color": "#570F8A",
+            "geometry_config": {},
+            "id": 4351,
+            "hotkey": ""
+        },
+        {
+            "title": "vanille-cream-cooked-custard-creme-dessert",
+            "shape": "polygon",
+            "color": "#500F8A",
+            "geometry_config": {},
+            "id": 4353,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-in-conch-form",
+            "shape": "polygon",
+            "color": "#0F528A",
+            "geometry_config": {},
+            "id": 4355,
+            "hotkey": ""
+        },
+        {
+            "title": "nuts",
+            "shape": "polygon",
+            "color": "#688A0F",
+            "geometry_config": {},
+            "id": 4357,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-carbonara",
+            "shape": "polygon",
+            "color": "#8A190F",
+            "geometry_config": {},
+            "id": 4359,
+            "hotkey": ""
+        },
+        {
+            "title": "fig-dried",
+            "shape": "polygon",
+            "color": "#8A6C0F",
+            "geometry_config": {},
+            "id": 4361,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta-in-butterfly-form-farfalle",
+            "shape": "polygon",
+            "color": "#0F8A30",
+            "geometry_config": {},
+            "id": 4363,
+            "hotkey": ""
+        },
+        {
+            "title": "minced-meat",
+            "shape": "polygon",
+            "color": "#0F1C8A",
+            "geometry_config": {},
+            "id": 4365,
+            "hotkey": ""
+        },
+        {
+            "title": "carrot-steamed-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#0F8A2E",
+            "geometry_config": {},
+            "id": 4367,
+            "hotkey": ""
+        },
+        {
+            "title": "ebly",
+            "shape": "polygon",
+            "color": "#740F8A",
+            "geometry_config": {},
+            "id": 4369,
+            "hotkey": ""
+        },
+        {
+            "title": "damson-plum",
+            "shape": "polygon",
+            "color": "#0F8A52",
+            "geometry_config": {},
+            "id": 4371,
+            "hotkey": ""
+        },
+        {
+            "title": "shoots",
+            "shape": "polygon",
+            "color": "#708A0F",
+            "geometry_config": {},
+            "id": 4373,
+            "hotkey": ""
+        },
+        {
+            "title": "bouquet-garni",
+            "shape": "polygon",
+            "color": "#0F278A",
+            "geometry_config": {},
+            "id": 4375,
+            "hotkey": ""
+        },
+        {
+            "title": "coconut",
+            "shape": "polygon",
+            "color": "#0F8A29",
+            "geometry_config": {},
+            "id": 4377,
+            "hotkey": ""
+        },
+        {
+            "title": "banana-cake",
+            "shape": "polygon",
+            "color": "#668A0F",
+            "geometry_config": {},
+            "id": 4379,
+            "hotkey": ""
+        },
+        {
+            "title": "waffle",
+            "shape": "polygon",
+            "color": "#8A4B0F",
+            "geometry_config": {},
+            "id": 4381,
+            "hotkey": ""
+        },
+        {
+            "title": "apricot-dried",
+            "shape": "polygon",
+            "color": "#8A840F",
+            "geometry_config": {},
+            "id": 4383,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-curry",
+            "shape": "polygon",
+            "color": "#0F368A",
+            "geometry_config": {},
+            "id": 4385,
+            "hotkey": ""
+        },
+        {
+            "title": "watermelon-fresh",
+            "shape": "polygon",
+            "color": "#300F8A",
+            "geometry_config": {},
+            "id": 4387,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce-sweet-salted-asian",
+            "shape": "polygon",
+            "color": "#8A840F",
+            "geometry_config": {},
+            "id": 4389,
+            "hotkey": ""
+        },
+        {
+            "title": "pork-roast",
+            "shape": "polygon",
+            "color": "#0F8A56",
+            "geometry_config": {},
+            "id": 4391,
+            "hotkey": ""
+        },
+        {
+            "title": "blackberry",
+            "shape": "polygon",
+            "color": "#8A0F31",
+            "geometry_config": {},
+            "id": 4393,
+            "hotkey": ""
+        },
+        {
+            "title": "smoked-cooked-sausage-of-pork-and-beef-meat-sausag",
+            "shape": "polygon",
+            "color": "#8A0F34",
+            "geometry_config": {},
+            "id": 4395,
+            "hotkey": ""
+        },
+        {
+            "title": "bean-seeds",
+            "shape": "polygon",
+            "color": "#4C0F8A",
+            "geometry_config": {},
+            "id": 4397,
+            "hotkey": ""
+        },
+        {
+            "title": "italian-salad-dressing",
+            "shape": "polygon",
+            "color": "#330F8A",
+            "geometry_config": {},
+            "id": 4399,
+            "hotkey": ""
+        },
+        {
+            "title": "white-asparagus",
+            "shape": "polygon",
+            "color": "#6B8A0F",
+            "geometry_config": {},
+            "id": 4401,
+            "hotkey": ""
+        },
+        {
+            "title": "pie-rhubarb-baked-with-cake-dough",
+            "shape": "polygon",
+            "color": "#888A0F",
+            "geometry_config": {},
+            "id": 4403,
+            "hotkey": ""
+        },
+        {
+            "title": "tomato-stewed-without-addition-of-fat-without-addition-of-salt",
+            "shape": "polygon",
+            "color": "#0F8A31",
+            "geometry_config": {},
+            "id": 4405,
+            "hotkey": ""
+        },
+        {
+            "title": "cherries",
+            "shape": "polygon",
+            "color": "#8A630F",
+            "geometry_config": {},
+            "id": 4407,
+            "hotkey": ""
+        },
+        {
+            "title": "nectarine",
+            "shape": "polygon",
+            "color": "#8A0F13",
+            "geometry_config": {},
+            "id": 4409,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

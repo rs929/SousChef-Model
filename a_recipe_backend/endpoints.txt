@@ -1,0 +1,48 @@
+Base64 Image Endpoints:
+
+/image-to-ingredient-b64
+
+Given up to 5 base64 encoded images, returns the ingredients identified in the images by the object detection
+model.
+
+REQUEST BODY:
+
+{
+    "images":[
+        "base64stringone",
+        "base64stringtwo"
+    ]
+}
+
+RESPONSE BODY:
+
+{
+    "ingredients": [
+        {
+            "label": "mandarine"
+        },
+        {
+            "label": "apple"
+        }
+    ]
+}
+
+/image-to-recipe-b64?m=<t5 OR gpt2>
+
+Given up to 5 base64 encoded images and the model to be used during recipe generation (t5 or gpt2) returns the recipe
+produced by the model, based on the ingredients detected in each image.
+
+REQUEST BODY:
+
+{
+    "images":[
+        "base64stringone",
+        "base64stringtwo"
+    ]
+}
+
+RESPONSE BODY:
+
+{
+  "recipe": "blah blah blah"
+}
