@@ -35,4 +35,3 @@ Future Work
 
 Enhance image recognition accuracy for user-uploaded photos by improving dataset diversity and preprocessing techniques.
 Explore additional transformer architectures to further optimize recipe quality.
-Feel free to customize this summary further to reflect specific contributions or achievements from your project!
